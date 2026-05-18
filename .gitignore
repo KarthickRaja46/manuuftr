@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+Scripts/.venv/
+.venv/
+venv/
+
+# Data files
+data/
+*.csv
+*.xlsx
+*.pbix
+
+# Power BI and temporary files
+*.pbix
+*.tmp
+*.log
+
+# User-specific files
+karthic.txt
+
+# OS files
+.DS_Store
+Thumbs.db
