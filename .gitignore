@@ -8,18 +8,12 @@ Scripts/.venv/
 .venv/
 venv/
 
-# Data files
-data/
-!data/
-!data/.gitkeep
-*.csv
-*.xlsx
-*.pbix
-
-# Power BI and temporary files
-*.pbix
+# Generated files and temp files to ignore
 *.tmp
 *.log
+
+# Virtual environment and editor files
+
 
 # User-specific files
 karthic.txt

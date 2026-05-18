@@ -1,0 +1,801 @@
+DowntimeID,MachineID,DateDowntime,StartTime,DowntimeDuration_Minutes,RootCause,DowntimeCategory,ImpactedUnits,RepairCost,MaintenanceType,TechnicianName,ResolutionTime_Minutes
+1,P003-L2-M3,2025-12-26,08:00,130,Scheduled Maintenance,Planned,206,56,Preventive,Christine Stewart,265
+2,P002-L1-M1,2025-10-27,15:41,406,Mechanical Failure,Unplanned,50,4749,Corrective,Ernest Maynard,84
+3,P002-L3-M3,2025-09-16,18:01,186,Electrical Issue,Unplanned,364,4590,Corrective,Daniel Andrews,177
+4,P003-L5-M2,2025-07-04,19:38,291,Scheduled Maintenance,Planned,110,877,Preventive,Jeanette Duffy,150
+5,P004-L2-M2,2025-11-03,15:50,112,Calibration,Planned,314,1580,Preventive,Haley Haney,62
+6,P004-L2-M1,2025-11-19,08:28,122,Tool Change,Planned,456,1732,Preventive,Kristen Payne,159
+7,P004-L3-M2,2025-10-13,16:25,223,Scheduled Maintenance,Planned,484,721,Preventive,Michael Mendoza,200
+8,P004-L4-M3,2025-09-23,14:01,127,Safety Inspection,Planned,249,1961,Preventive,David Miller,161
+9,P004-L1-M2,2025-04-23,12:40,254,Mechanical Failure,Unplanned,456,3087,Corrective,Jessica Townsend DDS,16
+10,P002-L5-M1,2025-10-12,19:52,136,Scheduled Maintenance,Planned,317,1007,Preventive,Katherine Jones,97
+11,P001-L4-M1,2025-01-16,11:30,287,Scheduled Maintenance,Planned,289,1449,Preventive,Keith Martin,154
+12,P002-L5-M3,2025-02-12,06:22,242,Calibration,Planned,431,971,Preventive,Caroline Sosa,249
+13,P004-L5-M3,2025-04-14,22:43,295,Scheduled Maintenance,Planned,224,492,Preventive,Mary Brown,246
+14,P003-L4-M2,2025-09-29,08:54,204,Sensor Failure,Unplanned,95,2361,Corrective,John Snyder,36
+15,P001-L3-M2,2025-02-02,15:19,456,Tool Wear,Unplanned,137,3582,Corrective,Dillon Gordon,64
+16,P002-L3-M2,2025-07-04,08:47,15,Material Jam,Unplanned,110,4413,Corrective,Steven Navarro,164
+17,P004-L4-M1,2025-06-27,10:26,212,Scheduled Maintenance,Planned,219,1980,Preventive,Aaron Riley,217
+18,P002-L5-M1,2025-07-25,22:06,75,Scheduled Maintenance,Planned,172,948,Preventive,Christopher Ward,102
+19,P004-L5-M1,2025-08-01,09:08,77,Tool Change,Planned,481,1468,Preventive,Whitney Bradley,168
+20,P003-L3-M3,2025-02-22,16:03,445,Hydraulic Leak,Unplanned,479,3676,Corrective,Brandon Davis,137
+21,P002-L2-M2,2025-10-23,18:06,254,Tool Wear,Unplanned,119,3827,Corrective,Dana Simon,214
+22,P001-L2-M3,2025-03-19,21:03,100,Safety Inspection,Planned,64,388,Preventive,Erik Stevens,35
+23,P004-L3-M3,2025-06-21,19:40,265,Safety Inspection,Planned,296,1224,Preventive,David Rose,147
+24,P003-L3-M2,2025-07-30,12:04,125,Calibration,Planned,182,286,Preventive,Sandra Jackson,224
+25,P002-L3-M2,2025-12-16,16:15,226,Safety Inspection,Planned,54,217,Preventive,Lisa Norris,114
+26,P004-L1-M1,2025-04-27,17:11,72,Calibration,Planned,108,361,Preventive,Mary Miller,105
+27,P002-L5-M2,2025-12-29,21:58,218,Calibration,Planned,159,1096,Preventive,Nicole Jones,68
+28,P002-L3-M1,2025-04-17,16:55,190,Tool Change,Planned,391,581,Preventive,Brenda Wright,77
+29,P001-L1-M3,2025-03-14,14:29,164,Material Jam,Unplanned,391,4589,Corrective,Christina Barber,188
+30,P001-L2-M1,2025-11-02,13:46,158,Software Glitch,Unplanned,162,4737,Corrective,Andre Turner,64
+31,P003-L4-M2,2025-08-17,09:57,55,Material Jam,Unplanned,256,184,Corrective,Mark Cain,279
+32,P003-L1-M3,2025-05-10,18:15,300,Belt Slippage,Unplanned,402,822,Corrective,Lisa Jones,220
+33,P002-L1-M1,2025-10-19,13:20,83,Tool Change,Planned,367,1171,Preventive,Kelly Richardson,258
+34,P004-L2-M2,2025-06-03,14:33,299,Scheduled Maintenance,Planned,419,61,Preventive,Amanda Roberts,258
+35,P004-L2-M2,2025-10-24,06:41,233,Operator Error,Unplanned,408,3705,Corrective,Brian Harding,229
+36,P001-L5-M1,2025-08-21,19:12,256,Calibration,Planned,399,1552,Preventive,Troy Middleton,63
+37,P003-L3-M3,2025-12-30,17:18,107,Safety Inspection,Planned,195,1934,Preventive,Edgar Kane,291
+38,P004-L5-M1,2025-09-03,06:23,201,Software Glitch,Unplanned,100,2355,Corrective,Bryan Rodriguez,85
+39,P001-L2-M1,2025-02-02,20:00,272,Safety Inspection,Planned,141,597,Preventive,Rebecca Petersen,36
+40,P001-L2-M2,2025-12-08,14:45,97,Safety Inspection,Planned,373,1393,Preventive,Steven Burgess,151
+41,P002-L3-M2,2025-04-02,20:28,127,Scheduled Maintenance,Planned,150,753,Preventive,Mary Williams,173
+42,P003-L5-M2,2025-12-22,22:49,170,Calibration,Planned,228,396,Preventive,Bonnie Mack,96
+43,P002-L3-M3,2025-01-25,16:13,281,Calibration,Planned,67,1565,Preventive,Nicholas Spears,269
+44,P004-L4-M1,2025-06-12,15:18,78,Scheduled Maintenance,Planned,295,631,Preventive,Andrea Burns,176
+45,P001-L5-M1,2025-07-23,11:49,89,Tool Change,Planned,390,1392,Preventive,Katherine Mullins,81
+46,P003-L4-M1,2025-09-13,20:49,281,Tool Change,Planned,126,1989,Preventive,Joshua Rogers,163
+47,P003-L1-M3,2025-11-05,22:47,109,Mechanical Failure,Unplanned,125,4192,Corrective,Angela Johnson,76
+48,P001-L4-M3,2025-03-28,19:06,276,Calibration,Planned,381,859,Preventive,Julie Ruiz,65
+49,P001-L5-M2,2025-03-16,07:40,299,Tool Change,Planned,274,1223,Preventive,Sandra Pena,172
+50,P003-L4-M1,2025-10-26,21:12,265,Tool Change,Planned,181,54,Preventive,Alicia Johnson,218
+51,P001-L3-M3,2025-02-02,19:01,111,Safety Inspection,Planned,398,318,Preventive,Aaron James II,222
+52,P001-L3-M1,2025-06-27,10:51,125,Safety Inspection,Planned,429,759,Preventive,Eric Wright,91
+53,P001-L5-M3,2025-06-10,15:54,30,Tool Change,Planned,225,1437,Preventive,David Jones,75
+54,P003-L2-M1,2025-02-17,06:24,154,Safety Inspection,Planned,479,501,Preventive,James Roberts,77
+55,P004-L2-M2,2025-06-24,14:56,256,Scheduled Maintenance,Planned,303,1473,Preventive,Dominic Carter,62
+56,P001-L5-M2,2025-07-10,14:05,239,Calibration,Planned,139,116,Preventive,Bonnie Webb,239
+57,P003-L2-M1,2025-10-03,08:31,289,Scheduled Maintenance,Planned,451,597,Preventive,Amy Callahan,89
+58,P004-L4-M2,2025-08-15,21:33,143,Overheating,Unplanned,290,4414,Corrective,Ethan Anderson,227
+59,P001-L1-M2,2025-01-18,16:07,126,Scheduled Maintenance,Planned,386,1314,Preventive,Amber Scott,252
+60,P004-L1-M2,2025-12-16,10:18,47,Tool Change,Planned,51,1569,Preventive,Steven Robinson,84
+61,P004-L3-M3,2025-04-27,20:54,331,Mechanical Failure,Unplanned,186,513,Corrective,Carolyn Lane,159
+62,P001-L3-M2,2025-04-20,06:12,146,Safety Inspection,Planned,305,1718,Preventive,April Johns,91
+63,P001-L1-M2,2025-05-10,11:20,222,Tool Change,Planned,146,1533,Preventive,Jordan Mcdonald,159
+64,P003-L3-M2,2025-01-23,21:57,48,Safety Inspection,Planned,151,605,Preventive,Lisa Peterson,147
+65,P001-L2-M3,2025-09-12,17:01,106,Tool Change,Planned,259,551,Preventive,James Rangel,48
+66,P002-L4-M3,2025-11-22,21:53,206,Calibration,Planned,170,130,Preventive,David Lester,45
+67,P001-L3-M3,2025-04-09,12:50,271,Tool Change,Planned,113,357,Preventive,Brian Clayton,293
+68,P004-L2-M1,2025-08-06,21:31,207,Safety Inspection,Planned,407,1034,Preventive,Brenda Flores,18
+69,P004-L3-M3,2025-08-18,17:29,285,Safety Inspection,Planned,312,1702,Preventive,Sarah Garcia,249
+70,P004-L5-M3,2025-01-29,10:48,230,Calibration,Planned,487,1138,Preventive,Andre Guerrero,238
+71,P003-L4-M2,2025-09-27,18:41,201,Safety Inspection,Planned,436,1467,Preventive,Sheila Rivera,53
+72,P002-L2-M3,2025-04-15,19:18,122,Tool Change,Planned,498,745,Preventive,Erika Hunt,274
+73,P004-L1-M2,2025-01-08,16:42,163,Safety Inspection,Planned,90,424,Preventive,Megan Harmon,52
+74,P002-L1-M2,2025-08-02,09:37,169,Calibration,Planned,375,796,Preventive,Jessica Lin,152
+75,P001-L1-M3,2025-02-02,13:28,257,Calibration,Planned,79,1600,Preventive,Christine Miller,65
+76,P004-L1-M2,2025-09-10,12:12,255,Material Jam,Unplanned,484,3357,Corrective,Mrs. Vanessa Patrick,22
+77,P002-L3-M2,2025-01-10,16:33,222,Safety Inspection,Planned,126,855,Preventive,William Collins,50
+78,P001-L4-M2,2025-07-26,19:44,262,Calibration,Planned,360,199,Preventive,Jessica Young,59
+79,P002-L4-M1,2025-06-02,06:32,387,Hydraulic Leak,Unplanned,138,3883,Corrective,Frank Rogers,122
+80,P001-L4-M1,2025-02-05,17:45,85,Calibration,Planned,360,554,Preventive,Larry Lee,211
+81,P002-L4-M2,2025-09-29,14:54,107,Tool Change,Planned,314,1155,Preventive,James Wong,115
+82,P001-L5-M2,2025-09-20,18:26,140,Scheduled Maintenance,Planned,189,1762,Preventive,April Young,246
+83,P003-L5-M2,2025-08-23,08:29,159,Calibration,Planned,210,1935,Preventive,Christian Johnson,182
+84,P003-L2-M3,2025-03-05,18:21,276,Tool Change,Planned,141,329,Preventive,Nancy Fox,234
+85,P001-L1-M2,2025-05-16,09:26,269,Safety Inspection,Planned,278,356,Preventive,Tabitha Fernandez,183
+86,P001-L5-M2,2025-11-07,10:32,56,Safety Inspection,Planned,469,1899,Preventive,David Kidd,99
+87,P002-L2-M1,2025-07-25,15:20,295,Scheduled Maintenance,Planned,53,142,Preventive,Michael Bell,197
+88,P002-L5-M3,2025-08-22,07:48,346,Software Glitch,Unplanned,208,4253,Corrective,Matthew Ortega,274
+89,P004-L5-M1,2025-07-06,22:56,343,Calibration Drift,Unplanned,164,3503,Corrective,Megan Delacruz,193
+90,P001-L2-M1,2025-12-14,16:47,123,Calibration,Planned,260,163,Preventive,Michele Fischer,256
+91,P001-L2-M2,2025-07-18,11:34,115,Material Jam,Unplanned,167,3296,Corrective,Ashley Montgomery,126
+92,P003-L2-M1,2025-09-06,15:34,128,Safety Inspection,Planned,141,869,Preventive,Stacy Cook,182
+93,P001-L3-M3,2025-03-17,17:19,371,Sensor Failure,Unplanned,99,4326,Corrective,Elizabeth Williams,135
+94,P003-L5-M2,2025-02-10,16:40,34,Safety Inspection,Planned,458,392,Preventive,Eric Gallagher,115
+95,P002-L3-M3,2025-03-06,15:06,128,Calibration,Planned,66,1191,Preventive,Brittney Richardson,46
+96,P002-L1-M2,2025-08-08,21:36,218,Scheduled Maintenance,Planned,114,391,Preventive,David Greene,253
+97,P002-L4-M3,2025-08-30,12:53,309,Material Jam,Unplanned,290,2947,Corrective,Karen Evans,144
+98,P004-L5-M2,2025-10-16,16:48,452,Maintenance Window,Unplanned,61,1354,Corrective,Matthew Ochoa,138
+99,P001-L4-M1,2025-04-17,19:26,249,Calibration,Planned,435,1156,Preventive,Leslie Cunningham,129
+100,P002-L3-M2,2025-11-01,15:20,93,Scheduled Maintenance,Planned,318,1491,Preventive,Stephen Phillips,117
+101,P003-L3-M3,2025-05-24,13:09,130,Safety Inspection,Planned,178,344,Preventive,David Hill,277
+102,P004-L4-M3,2025-01-12,06:02,300,Scheduled Maintenance,Planned,418,1711,Preventive,Daniel Anderson,107
+103,P002-L3-M3,2025-07-17,07:08,49,Overheating,Unplanned,158,3176,Corrective,Kathy Stone,70
+104,P003-L4-M1,2025-05-28,17:55,345,Mechanical Failure,Unplanned,148,2303,Corrective,Pamela Gardner,122
+105,P002-L3-M2,2025-05-11,11:57,108,Operator Error,Unplanned,279,678,Corrective,Breanna Hill,128
+106,P002-L4-M1,2025-08-07,18:16,115,Scheduled Maintenance,Planned,124,60,Preventive,Katelyn Thornton,19
+107,P002-L4-M1,2025-10-18,14:06,238,Tool Change,Planned,452,1184,Preventive,Allison Jackson,132
+108,P001-L5-M2,2025-02-28,20:53,142,Belt Slippage,Unplanned,453,1813,Corrective,Philip Harris,246
+109,P001-L2-M2,2025-11-13,13:46,187,Scheduled Maintenance,Planned,75,277,Preventive,Jason Harris,107
+110,P002-L3-M2,2025-08-15,09:58,340,Material Jam,Unplanned,402,767,Corrective,Christopher Gaines,72
+111,P004-L2-M3,2025-01-14,16:45,436,Sensor Failure,Unplanned,69,1492,Corrective,Samantha Silva,207
+112,P001-L1-M1,2025-02-26,10:29,127,Calibration,Planned,394,772,Preventive,Lawrence Smith,42
+113,P003-L5-M3,2025-04-16,06:01,222,Safety Inspection,Planned,293,1229,Preventive,Donald Gonzalez,52
+114,P003-L5-M2,2025-02-09,11:01,195,Safety Inspection,Planned,246,1840,Preventive,Justin Lee,46
+115,P003-L5-M1,2025-04-26,21:48,242,Safety Inspection,Planned,445,1014,Preventive,Shawn Perez,274
+116,P002-L5-M1,2025-07-13,20:47,126,Scheduled Maintenance,Planned,193,1311,Preventive,Kenneth Todd,246
+117,P002-L4-M2,2025-06-24,07:34,421,Mechanical Failure,Unplanned,297,1221,Corrective,Lisa Buckley,92
+118,P001-L2-M1,2025-12-02,06:29,177,Calibration,Planned,203,1666,Preventive,Christina Schwartz,85
+119,P004-L2-M3,2025-07-11,19:24,312,Material Jam,Unplanned,215,343,Corrective,Alexandria Miles,71
+120,P003-L3-M3,2025-07-27,17:44,461,Overheating,Unplanned,251,1788,Corrective,Michael Phillips,218
+121,P003-L1-M3,2025-09-29,11:15,327,Sensor Failure,Unplanned,259,3599,Corrective,Katrina Martin,98
+122,P002-L4-M2,2025-04-08,19:10,248,Operator Error,Unplanned,229,2583,Corrective,Amy Cherry,225
+123,P004-L1-M2,2025-09-08,16:42,47,Scheduled Maintenance,Planned,88,535,Preventive,Traci Lee,58
+124,P002-L2-M1,2025-06-25,11:42,464,Material Jam,Unplanned,310,2120,Corrective,Douglas Wells,41
+125,P004-L5-M2,2025-06-30,08:21,119,Safety Inspection,Planned,475,657,Preventive,William Mueller,32
+126,P002-L3-M3,2025-10-13,08:53,99,Calibration,Planned,206,610,Preventive,Katelyn Martinez,256
+127,P004-L1-M1,2025-04-18,21:25,118,Mechanical Failure,Unplanned,233,815,Corrective,Keith Ellis,273
+128,P002-L4-M2,2025-12-26,22:17,213,Calibration,Planned,295,1141,Preventive,John Peterson,291
+129,P002-L4-M1,2025-06-22,19:15,60,Scheduled Maintenance,Planned,57,739,Preventive,Lisa Evans,220
+130,P002-L3-M2,2025-04-09,09:10,38,Scheduled Maintenance,Planned,388,813,Preventive,Anthony Jones,16
+131,P004-L4-M1,2025-01-10,15:54,131,Calibration,Planned,480,642,Preventive,Jacob Allen,42
+132,P003-L4-M1,2025-04-27,18:47,110,Safety Inspection,Planned,216,167,Preventive,Ashley Johnson,164
+133,P004-L3-M1,2025-01-14,12:50,96,Scheduled Maintenance,Planned,143,1184,Preventive,Amber Moore,154
+134,P003-L2-M1,2025-11-06,08:28,194,Calibration,Planned,183,1553,Preventive,Nancy Nash,266
+135,P002-L2-M3,2025-05-01,13:11,67,Safety Inspection,Planned,278,1266,Preventive,Christina Simmons MD,154
+136,P002-L5-M3,2025-05-07,21:11,474,Belt Slippage,Unplanned,191,3859,Corrective,Bruce Trujillo,228
+137,P004-L5-M2,2025-12-21,08:08,275,Safety Inspection,Planned,221,1718,Preventive,Timothy Miller,256
+138,P004-L5-M3,2025-08-02,07:22,158,Scheduled Maintenance,Planned,186,1896,Preventive,Jenna Kelly,258
+139,P001-L5-M1,2025-06-10,15:57,353,Overheating,Unplanned,52,1769,Corrective,William Walters,95
+140,P003-L2-M1,2025-04-03,17:31,196,Safety Inspection,Planned,248,1863,Preventive,Scott Smith,162
+141,P002-L4-M3,2025-01-31,16:51,41,Tool Change,Planned,241,572,Preventive,Lydia Rodriguez,211
+142,P002-L2-M1,2025-01-16,08:52,311,Hydraulic Leak,Unplanned,191,2433,Corrective,Michael Taylor,211
+143,P003-L1-M2,2025-02-20,06:02,265,Electrical Issue,Unplanned,64,1856,Corrective,Darius Decker,34
+144,P003-L5-M3,2025-12-10,15:20,245,Safety Inspection,Planned,332,702,Preventive,Scott Howard,293
+145,P002-L4-M3,2025-02-25,07:42,171,Tool Change,Planned,90,821,Preventive,Lindsey Morrison,96
+146,P002-L3-M2,2025-05-24,06:53,462,Tool Wear,Unplanned,138,2993,Corrective,Jordan Clark,176
+147,P001-L3-M2,2025-12-24,16:49,445,Hydraulic Leak,Unplanned,78,4676,Corrective,Ryan Fitzpatrick,263
+148,P001-L5-M1,2025-10-26,06:22,154,Safety Inspection,Planned,124,1397,Preventive,Amy Wright,64
+149,P001-L1-M3,2025-07-20,11:55,126,Operator Error,Unplanned,269,2277,Corrective,Shelley Andrews,102
+150,P004-L5-M1,2025-04-27,09:00,199,Tool Change,Planned,110,1254,Preventive,Stacey Sanders,67
+151,P001-L5-M2,2025-05-19,08:27,271,Tool Change,Planned,237,1446,Preventive,Kathy Davis,78
+152,P001-L4-M2,2025-07-03,14:43,79,Tool Change,Planned,406,493,Preventive,Morgan Bryant,73
+153,P002-L2-M1,2025-11-07,17:21,468,Mechanical Failure,Unplanned,472,1457,Corrective,Kimberly Williams,202
+154,P004-L3-M3,2025-10-20,14:37,234,Mechanical Failure,Unplanned,462,3361,Corrective,Samantha Sutton,181
+155,P003-L1-M1,2025-03-15,13:45,429,Calibration Drift,Unplanned,347,2644,Corrective,Christine Jones,115
+156,P003-L5-M3,2025-05-26,20:54,122,Sensor Failure,Unplanned,178,1706,Corrective,Jennifer Ruiz,89
+157,P003-L3-M2,2025-09-15,13:50,178,Tool Change,Planned,352,1634,Preventive,Allison Boyd,69
+158,P001-L2-M1,2025-10-01,11:21,100,Calibration,Planned,373,386,Preventive,Troy Zimmerman,244
+159,P004-L1-M1,2025-06-21,19:43,22,Electrical Issue,Unplanned,345,4738,Corrective,Sabrina Thornton,154
+160,P003-L5-M1,2025-05-19,10:25,271,Belt Slippage,Unplanned,453,3015,Corrective,Michael Little,25
+161,P001-L5-M1,2025-05-13,13:29,137,Scheduled Maintenance,Planned,59,765,Preventive,Lindsey Alvarez,198
+162,P001-L4-M3,2025-10-19,20:46,255,Tool Change,Planned,489,1070,Preventive,Samantha Petty,259
+163,P004-L3-M2,2025-01-23,14:34,43,Scheduled Maintenance,Planned,300,848,Preventive,Kathryn Walker,105
+164,P003-L2-M1,2025-07-13,06:18,37,Safety Inspection,Planned,406,1369,Preventive,David Ferguson,196
+165,P004-L1-M2,2025-07-17,11:08,95,Software Glitch,Unplanned,472,3271,Corrective,Michael Day,232
+166,P003-L5-M2,2025-05-09,18:45,66,Mechanical Failure,Unplanned,196,979,Corrective,Stephen Swanson,216
+167,P004-L3-M1,2025-10-07,17:50,75,Safety Inspection,Planned,99,834,Preventive,Ruth Ray,137
+168,P002-L1-M3,2025-04-15,13:59,200,Calibration,Planned,276,1932,Preventive,Deanna Watson,59
+169,P002-L4-M3,2025-07-30,21:21,127,Tool Change,Planned,112,1286,Preventive,Cameron Peterson,65
+170,P002-L3-M3,2025-05-11,21:31,53,Safety Inspection,Planned,191,569,Preventive,David Smith,48
+171,P002-L3-M1,2025-10-01,12:36,229,Safety Inspection,Planned,274,1341,Preventive,Kimberly Lynch,234
+172,P002-L4-M2,2025-05-04,14:38,317,Mechanical Failure,Unplanned,434,4363,Corrective,Michael Martinez,127
+173,P002-L1-M3,2025-05-22,22:21,168,Safety Inspection,Planned,285,1561,Preventive,Alexander Brown DDS,63
+174,P002-L3-M2,2025-04-25,18:17,76,Safety Inspection,Planned,268,839,Preventive,Joshua Serrano,257
+175,P001-L1-M1,2025-01-01,13:06,272,Safety Inspection,Planned,390,146,Preventive,Christopher Smith,142
+176,P001-L3-M3,2025-06-16,14:25,175,Safety Inspection,Planned,152,1893,Preventive,Christina Martinez,19
+177,P001-L3-M1,2025-08-22,10:12,42,Scheduled Maintenance,Planned,432,1765,Preventive,Timothy Turner,292
+178,P003-L3-M1,2025-12-13,15:22,213,Safety Inspection,Planned,448,146,Preventive,David Browning,110
+179,P001-L3-M1,2025-06-16,19:06,275,Tool Change,Planned,386,1950,Preventive,Whitney Reyes,297
+180,P003-L3-M2,2025-05-11,08:12,266,Calibration,Planned,201,779,Preventive,Thomas Wilkinson,224
+181,P002-L2-M3,2025-09-08,11:44,128,Calibration,Planned,151,788,Preventive,Chelsea Smith,247
+182,P002-L3-M1,2025-07-24,08:07,42,Software Glitch,Unplanned,206,742,Corrective,Kevin Allen,82
+183,P004-L3-M3,2025-12-10,17:30,177,Calibration,Planned,338,1312,Preventive,Darin Knight,240
+184,P004-L5-M3,2025-11-21,14:29,54,Safety Inspection,Planned,492,1694,Preventive,Brian Quinn,198
+185,P001-L4-M2,2025-11-23,21:42,100,Calibration,Planned,212,1825,Preventive,Derek Abbott,197
+186,P004-L2-M2,2025-03-21,17:09,268,Mechanical Failure,Unplanned,242,4839,Corrective,Daniel Carter,285
+187,P004-L4-M2,2025-04-02,14:59,270,Safety Inspection,Planned,76,1770,Preventive,Wayne Johnson,144
+188,P003-L2-M1,2025-12-19,21:48,250,Tool Wear,Unplanned,93,878,Corrective,Pamela Waters,182
+189,P003-L2-M3,2025-07-31,13:56,241,Sensor Failure,Unplanned,437,3356,Corrective,Katherine Bowman,173
+190,P003-L3-M1,2025-05-28,15:51,59,Safety Inspection,Planned,388,1251,Preventive,Michael Moore,128
+191,P004-L2-M2,2025-03-25,09:06,109,Scheduled Maintenance,Planned,158,1660,Preventive,Erin Byrd,269
+192,P002-L4-M3,2025-06-04,12:09,105,Belt Slippage,Unplanned,170,3992,Corrective,Jason Freeman,57
+193,P001-L2-M3,2025-11-12,11:28,41,Safety Inspection,Planned,352,572,Preventive,Stephen Wolf,186
+194,P001-L1-M1,2025-07-25,17:38,243,Safety Inspection,Planned,270,1068,Preventive,Brian Buckley,138
+195,P001-L2-M2,2025-11-17,08:35,390,Maintenance Window,Unplanned,442,2321,Corrective,Kimberly Allen DDS,47
+196,P002-L1-M3,2025-03-27,08:41,279,Tool Change,Planned,481,1595,Preventive,Adam Allen,215
+197,P003-L3-M2,2025-10-01,12:13,221,Scheduled Maintenance,Planned,177,480,Preventive,Kyle Jackson,252
+198,P001-L3-M1,2025-01-24,18:41,25,Maintenance Window,Unplanned,126,164,Corrective,Kristina Martinez,296
+199,P004-L4-M2,2025-07-09,06:51,292,Scheduled Maintenance,Planned,475,1047,Preventive,Madison Davis,79
+200,P004-L3-M2,2025-07-31,22:34,189,Tool Change,Planned,420,1090,Preventive,Scott Duffy,167
+201,P002-L1-M3,2025-01-14,18:16,109,Scheduled Maintenance,Planned,471,1097,Preventive,Lisa Hernandez,250
+202,P004-L5-M3,2025-12-23,18:37,142,Scheduled Maintenance,Planned,468,621,Preventive,Michael Byrd,222
+203,P001-L3-M3,2025-05-11,16:03,247,Operator Error,Unplanned,319,309,Corrective,Jeffrey Zimmerman,44
+204,P004-L4-M2,2025-07-09,17:42,144,Scheduled Maintenance,Planned,115,1225,Preventive,Keith Cherry,38
+205,P003-L5-M3,2025-07-15,22:08,168,Safety Inspection,Planned,234,71,Preventive,Brandon Moses,69
+206,P001-L1-M2,2025-02-24,16:51,313,Mechanical Failure,Unplanned,241,3669,Corrective,Jennifer Rose,57
+207,P002-L4-M1,2025-02-03,16:28,155,Scheduled Maintenance,Planned,228,703,Preventive,Maureen Davidson,30
+208,P004-L4-M1,2025-07-21,20:42,38,Scheduled Maintenance,Planned,162,1190,Preventive,Michele Fletcher,226
+209,P004-L3-M3,2025-12-10,10:09,253,Tool Change,Planned,200,98,Preventive,Kent Cardenas,32
+210,P002-L4-M3,2025-12-06,16:48,144,Calibration,Planned,383,506,Preventive,Carrie Medina,269
+211,P004-L4-M3,2025-02-06,18:18,187,Tool Change,Planned,134,760,Preventive,Heather Castro,140
+212,P002-L4-M3,2025-05-13,14:23,57,Scheduled Maintenance,Planned,325,1019,Preventive,Paige Huynh,42
+213,P003-L5-M2,2025-11-19,18:55,428,Mechanical Failure,Unplanned,300,1777,Corrective,Bradley Moody,224
+214,P001-L2-M3,2025-07-10,22:36,220,Scheduled Maintenance,Planned,87,329,Preventive,Dr. Jordan Watson DDS,177
+215,P001-L4-M2,2025-06-14,08:28,178,Mechanical Failure,Unplanned,105,755,Corrective,Michael Reynolds,113
+216,P004-L1-M2,2025-04-09,20:38,149,Scheduled Maintenance,Planned,430,1804,Preventive,Jennifer Ramirez,116
+217,P003-L2-M3,2025-04-01,14:07,200,Tool Change,Planned,486,1399,Preventive,Laura Fernandez,122
+218,P002-L1-M1,2025-04-06,13:19,227,Calibration,Planned,112,254,Preventive,Angelica Clay,129
+219,P001-L4-M2,2025-01-17,20:15,142,Tool Change,Planned,419,1303,Preventive,Barbara Austin,49
+220,P001-L5-M1,2025-09-07,14:38,83,Calibration,Planned,141,90,Preventive,Carmen Roberts,48
+221,P001-L1-M3,2025-03-01,17:23,216,Software Glitch,Unplanned,495,1689,Corrective,Tina Hernandez,81
+222,P001-L5-M3,2025-07-03,22:21,84,Calibration,Planned,353,1910,Preventive,Jordan James,296
+223,P002-L1-M3,2025-05-22,07:39,43,Scheduled Maintenance,Planned,160,1037,Preventive,Jesse Sanchez,229
+224,P003-L1-M1,2025-09-24,16:28,148,Maintenance Window,Unplanned,342,3263,Corrective,Vanessa Jacobs,211
+225,P004-L5-M1,2025-09-03,08:51,234,Safety Inspection,Planned,269,708,Preventive,Eugene Nicholson,226
+226,P001-L2-M2,2025-03-25,13:39,243,Calibration,Planned,442,1688,Preventive,Evan Johnson,182
+227,P003-L2-M1,2025-07-06,06:12,215,Tool Change,Planned,337,818,Preventive,Tracy Hurst,92
+228,P001-L2-M3,2025-12-15,21:51,276,Calibration,Planned,237,470,Preventive,Jason Galvan,233
+229,P003-L5-M1,2025-10-06,18:30,110,Scheduled Maintenance,Planned,341,488,Preventive,Jasmine Francis,83
+230,P004-L5-M1,2025-04-04,09:09,150,Calibration,Planned,433,1167,Preventive,James Webster,100
+231,P002-L5-M3,2025-09-28,16:09,283,Calibration Drift,Unplanned,136,3704,Corrective,Samantha Stone,77
+232,P004-L5-M1,2025-12-17,07:18,119,Scheduled Maintenance,Planned,423,1967,Preventive,Elizabeth Huynh,257
+233,P002-L2-M3,2025-10-26,16:13,61,Scheduled Maintenance,Planned,122,570,Preventive,Stephanie Perez,238
+234,P004-L1-M1,2025-06-23,19:40,363,Hydraulic Leak,Unplanned,154,3494,Corrective,Chad Key,205
+235,P004-L3-M1,2025-09-06,06:35,249,Safety Inspection,Planned,319,739,Preventive,Beverly Rivera,148
+236,P004-L4-M2,2025-01-07,11:28,42,Safety Inspection,Planned,158,682,Preventive,Christopher Johnson,164
+237,P004-L3-M2,2025-08-11,13:30,269,Calibration,Planned,94,1293,Preventive,Michael Lee,109
+238,P004-L2-M1,2025-05-29,20:27,201,Hydraulic Leak,Unplanned,320,2650,Corrective,James Ellis,75
+239,P002-L1-M1,2025-04-09,22:46,77,Material Jam,Unplanned,411,2662,Corrective,Dale Wilkins,241
+240,P002-L3-M2,2025-07-01,21:00,137,Calibration,Planned,126,604,Preventive,Denise Beck,121
+241,P001-L4-M3,2025-06-01,21:28,250,Tool Change,Planned,240,1340,Preventive,Mary Shea,125
+242,P001-L1-M2,2025-05-26,15:40,97,Tool Change,Planned,443,559,Preventive,Brian Small,210
+243,P003-L4-M1,2025-01-15,20:47,95,Safety Inspection,Planned,217,321,Preventive,Anthony Jackson,179
+244,P004-L5-M1,2025-07-27,20:49,237,Belt Slippage,Unplanned,418,4408,Corrective,Brian Ramos,60
+245,P001-L1-M1,2025-07-21,11:18,277,Tool Change,Planned,203,777,Preventive,Jeffrey Johnson,33
+246,P003-L5-M1,2025-03-24,21:47,207,Calibration,Planned,166,666,Preventive,Taylor Smith,253
+247,P004-L2-M1,2025-03-23,14:31,45,Safety Inspection,Planned,473,929,Preventive,Jeffrey Johnson,269
+248,P002-L2-M1,2025-05-17,11:15,116,Scheduled Maintenance,Planned,452,1180,Preventive,Melissa Ballard,250
+249,P001-L4-M1,2025-09-20,19:22,191,Safety Inspection,Planned,61,958,Preventive,Joshua Wilson,113
+250,P004-L1-M1,2025-05-10,13:17,72,Safety Inspection,Planned,220,1274,Preventive,Dr. Daniel Rodgers V,87
+251,P003-L3-M3,2025-08-11,17:59,256,Scheduled Maintenance,Planned,489,276,Preventive,Abigail Blevins,297
+252,P003-L4-M2,2025-04-13,16:05,35,Scheduled Maintenance,Planned,358,1969,Preventive,Maria Wilson DDS,260
+253,P001-L4-M1,2025-07-28,19:00,100,Safety Inspection,Planned,390,1055,Preventive,Timothy Gomez,40
+254,P002-L4-M1,2025-04-21,07:17,177,Overheating,Unplanned,110,4681,Corrective,Ashley Thornton,289
+255,P002-L2-M1,2025-06-16,09:51,167,Calibration,Planned,92,1424,Preventive,Nicholas Ferguson,103
+256,P003-L4-M3,2025-07-17,15:31,148,Hydraulic Leak,Unplanned,441,809,Corrective,John Mercado,288
+257,P001-L5-M2,2025-12-21,20:24,49,Scheduled Maintenance,Planned,328,857,Preventive,Samuel Austin,161
+258,P004-L4-M3,2025-05-17,08:38,128,Calibration,Planned,242,192,Preventive,Robert Schmidt,100
+259,P001-L3-M3,2025-11-22,22:47,78,Calibration,Planned,124,1808,Preventive,Brianna Gomez,53
+260,P004-L2-M2,2025-01-13,07:08,71,Calibration,Planned,314,869,Preventive,Veronica Kelly,208
+261,P001-L2-M3,2025-06-26,18:21,401,Overheating,Unplanned,92,3253,Corrective,Shannon Moore,86
+262,P001-L5-M2,2025-07-02,21:01,154,Calibration,Planned,110,852,Preventive,Renee Arnold,180
+263,P004-L2-M1,2025-07-01,12:50,135,Scheduled Maintenance,Planned,73,1353,Preventive,James Stewart,287
+264,P002-L3-M2,2025-10-17,10:45,222,Calibration,Planned,66,716,Preventive,Tara Atkins,236
+265,P001-L4-M3,2025-04-25,17:53,55,Calibration,Planned,268,1995,Preventive,Jeremy Jones,280
+266,P002-L3-M1,2025-11-21,16:37,180,Scheduled Maintenance,Planned,437,1248,Preventive,Thomas Berger,97
+267,P001-L3-M2,2025-01-25,20:41,426,Mechanical Failure,Unplanned,487,4101,Corrective,Aaron Parker,246
+268,P002-L5-M2,2025-04-13,14:25,102,Calibration,Planned,337,89,Preventive,Stephanie Smith,216
+269,P002-L3-M1,2025-10-04,06:34,201,Safety Inspection,Planned,382,934,Preventive,Gregory Horne,59
+270,P004-L5-M1,2025-11-27,14:00,41,Material Jam,Unplanned,68,3718,Corrective,Jessica Schmitt,183
+271,P001-L2-M2,2025-10-22,15:35,255,Scheduled Maintenance,Planned,80,1855,Preventive,Paul Peterson,239
+272,P003-L3-M1,2025-12-15,17:37,295,Scheduled Maintenance,Planned,74,1371,Preventive,Judith Garza,27
+273,P003-L1-M2,2025-07-16,10:47,158,Safety Inspection,Planned,375,1931,Preventive,William Bautista,164
+274,P003-L3-M2,2025-09-23,22:30,66,Calibration,Planned,441,645,Preventive,Amber Massey,225
+275,P004-L1-M3,2025-12-14,21:22,161,Safety Inspection,Planned,324,1559,Preventive,Garrett Lyons,271
+276,P002-L3-M1,2025-08-02,16:31,94,Tool Change,Planned,133,126,Preventive,Janice Torres,282
+277,P001-L2-M1,2025-09-16,17:10,196,Scheduled Maintenance,Planned,371,831,Preventive,Lori Brown,246
+278,P001-L2-M2,2025-05-27,22:13,463,Hydraulic Leak,Unplanned,463,3715,Corrective,Jeffrey Newman,208
+279,P003-L4-M2,2025-05-12,16:40,37,Calibration,Planned,74,1793,Preventive,Bradley Becker,143
+280,P003-L3-M2,2025-11-23,22:14,377,Sensor Failure,Unplanned,209,767,Corrective,Thomas Grant,151
+281,P002-L2-M3,2025-12-28,11:35,201,Tool Change,Planned,443,223,Preventive,Ryan Waller,139
+282,P002-L4-M3,2025-04-16,13:57,98,Safety Inspection,Planned,369,1168,Preventive,Dustin Brown,261
+283,P001-L2-M1,2025-04-27,08:26,205,Tool Change,Planned,408,799,Preventive,Walter Myers,212
+284,P002-L2-M2,2025-04-10,11:32,342,Overheating,Unplanned,166,239,Corrective,Ashley Chan,20
+285,P003-L5-M3,2025-05-19,19:13,156,Tool Change,Planned,368,1722,Preventive,Jennifer Morales,209
+286,P003-L1-M2,2025-11-05,14:51,127,Scheduled Maintenance,Planned,89,90,Preventive,Krista Cooper,127
+287,P004-L2-M1,2025-06-25,11:03,38,Tool Change,Planned,72,1970,Preventive,Jennifer Blanchard,147
+288,P001-L3-M2,2025-09-03,11:25,113,Scheduled Maintenance,Planned,402,1507,Preventive,Emily Smith,85
+289,P003-L4-M3,2025-06-06,06:01,277,Calibration,Planned,405,1221,Preventive,Elizabeth Ross,255
+290,P004-L5-M1,2025-06-11,11:56,319,Software Glitch,Unplanned,383,2752,Corrective,Kevin Cantu,271
+291,P002-L4-M3,2025-01-16,10:14,180,Calibration,Planned,494,611,Preventive,Kristen Scott,258
+292,P001-L5-M1,2025-06-01,15:12,136,Safety Inspection,Planned,405,179,Preventive,John Alvarez,163
+293,P002-L5-M1,2025-08-01,10:56,250,Calibration,Planned,175,1425,Preventive,Michelle Gonzalez,224
+294,P003-L2-M1,2025-03-04,18:25,155,Tool Change,Planned,84,1768,Preventive,Victor Ochoa,210
+295,P003-L1-M1,2025-03-28,20:42,218,Scheduled Maintenance,Planned,462,372,Preventive,Stephen Lopez,172
+296,P002-L2-M3,2025-03-31,20:11,212,Safety Inspection,Planned,424,1866,Preventive,Kaitlin Perry,135
+297,P002-L1-M3,2025-02-15,22:08,37,Scheduled Maintenance,Planned,354,1658,Preventive,Anna Stewart,28
+298,P004-L2-M1,2025-06-19,12:30,63,Tool Change,Planned,265,726,Preventive,Johnny Dickerson,256
+299,P002-L4-M2,2025-01-20,21:04,149,Calibration,Planned,306,491,Preventive,Rebekah Herman,254
+300,P004-L5-M3,2025-03-18,13:33,97,Scheduled Maintenance,Planned,409,922,Preventive,Eric Roberson,24
+301,P003-L3-M2,2025-08-15,08:34,223,Safety Inspection,Planned,416,180,Preventive,Michele Skinner DDS,136
+302,P003-L1-M1,2025-06-09,16:16,268,Operator Error,Unplanned,370,2901,Corrective,Veronica Mayo,147
+303,P001-L2-M1,2025-10-23,21:25,417,Tool Wear,Unplanned,202,1058,Corrective,Joanne Thomas,76
+304,P004-L5-M3,2025-01-11,08:13,222,Calibration,Planned,246,284,Preventive,Valerie Maddox,31
+305,P004-L1-M3,2025-10-26,12:42,184,Material Jam,Unplanned,387,1630,Corrective,Kristine Pittman,43
+306,P001-L1-M2,2025-11-08,14:25,298,Safety Inspection,Planned,420,1163,Preventive,Sierra Dickson,115
+307,P003-L5-M1,2025-11-24,08:26,446,Tool Wear,Unplanned,453,3900,Corrective,Brandon Blake,73
+308,P002-L5-M1,2025-07-21,09:24,132,Scheduled Maintenance,Planned,405,1868,Preventive,Lindsey Thomas,132
+309,P004-L5-M3,2025-02-12,14:35,292,Calibration,Planned,217,1729,Preventive,Kristin Anderson,127
+310,P001-L2-M3,2025-08-17,06:14,75,Calibration,Planned,453,278,Preventive,Herbert Ramirez,154
+311,P002-L4-M2,2025-01-25,18:33,353,Operator Error,Unplanned,441,322,Corrective,Billy Perry,188
+312,P004-L1-M3,2025-10-31,14:29,298,Calibration,Planned,454,364,Preventive,Richard Ball,143
+313,P004-L5-M1,2025-11-11,10:49,265,Scheduled Maintenance,Planned,167,392,Preventive,Juan Harding,164
+314,P004-L5-M3,2025-02-24,12:34,244,Scheduled Maintenance,Planned,107,1340,Preventive,Paige Howard,263
+315,P002-L1-M1,2025-02-19,19:54,261,Safety Inspection,Planned,340,1514,Preventive,Tanya Anderson,160
+316,P004-L4-M1,2025-03-10,06:54,155,Safety Inspection,Planned,288,1511,Preventive,Carlos Hart,253
+317,P001-L5-M2,2025-06-29,14:11,226,Tool Change,Planned,83,350,Preventive,Susan Holt,82
+318,P004-L5-M2,2025-08-16,11:23,198,Scheduled Maintenance,Planned,449,1100,Preventive,Christopher Moss,297
+319,P002-L1-M2,2025-08-23,20:20,17,Software Glitch,Unplanned,103,2636,Corrective,Brian Kirk,26
+320,P001-L2-M1,2025-10-25,07:46,323,Operator Error,Unplanned,435,2374,Corrective,Joyce Hardy,262
+321,P002-L3-M3,2025-07-29,14:58,329,Tool Wear,Unplanned,280,3701,Corrective,Crystal Thornton,194
+322,P004-L1-M2,2025-04-09,08:56,209,Safety Inspection,Planned,314,611,Preventive,Lisa Luna,43
+323,P002-L1-M2,2025-10-19,06:58,248,Tool Change,Planned,83,1173,Preventive,Jacob Prince,104
+324,P001-L3-M2,2025-07-25,22:05,290,Calibration,Planned,462,410,Preventive,Jennifer Bennett,38
+325,P004-L5-M1,2025-02-22,19:18,231,Safety Inspection,Planned,470,1840,Preventive,David Monroe,63
+326,P003-L2-M1,2025-12-14,08:40,165,Scheduled Maintenance,Planned,318,1633,Preventive,David Mccoy,94
+327,P003-L2-M1,2025-12-28,16:17,286,Scheduled Maintenance,Planned,337,1916,Preventive,Thomas Dean,94
+328,P001-L2-M1,2025-09-16,21:06,53,Calibration,Planned,228,1698,Preventive,Emily Henderson,222
+329,P002-L3-M3,2025-10-19,17:04,77,Sensor Failure,Unplanned,158,1807,Corrective,Emily Burns,287
+330,P002-L5-M2,2025-10-19,07:33,205,Safety Inspection,Planned,404,295,Preventive,Robert Ayala,245
+331,P003-L3-M2,2025-04-23,13:00,419,Electrical Issue,Unplanned,124,3649,Corrective,Kelly Ray,156
+332,P004-L2-M3,2025-11-05,06:15,25,Operator Error,Unplanned,229,2105,Corrective,David Blake,27
+333,P003-L5-M1,2025-06-24,16:05,59,Maintenance Window,Unplanned,188,1670,Corrective,Adam Fletcher,148
+334,P004-L3-M2,2025-09-21,21:23,198,Calibration,Planned,61,1655,Preventive,James Cruz,225
+335,P001-L1-M3,2025-05-30,08:43,284,Mechanical Failure,Unplanned,216,3839,Corrective,James Smith,31
+336,P003-L2-M3,2025-09-28,12:37,370,Material Jam,Unplanned,366,2921,Corrective,Henry Lane,266
+337,P002-L1-M2,2025-02-11,12:36,186,Scheduled Maintenance,Planned,308,1739,Preventive,Rachel Ortiz,51
+338,P004-L1-M1,2025-08-07,13:13,279,Calibration,Planned,296,287,Preventive,Eric Cruz,286
+339,P001-L1-M2,2025-06-13,19:52,120,Calibration,Planned,447,1568,Preventive,Jason Rich,104
+340,P003-L1-M3,2025-06-05,13:22,224,Calibration,Planned,81,1315,Preventive,Mary Holloway,28
+341,P002-L5-M2,2025-01-15,06:36,75,Electrical Issue,Unplanned,356,1551,Corrective,Amy Steele,153
+342,P004-L3-M2,2025-01-04,19:52,294,Tool Change,Planned,254,1477,Preventive,Craig Miranda,179
+343,P004-L2-M1,2025-09-13,16:56,299,Scheduled Maintenance,Planned,132,1509,Preventive,Crystal Wilson,128
+344,P004-L1-M2,2025-07-28,15:12,35,Scheduled Maintenance,Planned,281,1813,Preventive,Maria Walker,236
+345,P001-L3-M3,2025-07-13,07:44,235,Calibration,Planned,447,837,Preventive,Sarah Harris,273
+346,P004-L1-M3,2025-09-03,13:52,38,Scheduled Maintenance,Planned,425,1898,Preventive,April Daniel,118
+347,P002-L3-M3,2025-02-22,11:38,279,Scheduled Maintenance,Planned,241,282,Preventive,Lauren Jennings,268
+348,P004-L2-M1,2025-06-18,20:41,242,Safety Inspection,Planned,122,594,Preventive,Sandra Matthews,256
+349,P003-L3-M2,2025-11-01,22:41,256,Material Jam,Unplanned,114,1067,Corrective,Karen Wheeler,95
+350,P004-L3-M2,2025-07-24,18:18,285,Tool Change,Planned,450,945,Preventive,Mr. Shane Taylor,155
+351,P004-L1-M2,2025-07-20,16:00,216,Scheduled Maintenance,Planned,110,1338,Preventive,Lauren Steele,99
+352,P001-L2-M1,2025-08-14,06:26,261,Tool Change,Planned,214,450,Preventive,Kimberly Anderson,285
+353,P002-L3-M3,2025-07-10,18:57,232,Tool Change,Planned,312,1260,Preventive,Karen Medina,220
+354,P004-L1-M1,2025-08-07,21:02,253,Scheduled Maintenance,Planned,51,1534,Preventive,Cindy Ali,287
+355,P002-L4-M2,2025-04-13,06:18,163,Scheduled Maintenance,Planned,181,1188,Preventive,Joseph Good,285
+356,P001-L5-M2,2025-01-16,06:04,471,Software Glitch,Unplanned,240,2159,Corrective,Brian Williams,267
+357,P001-L2-M3,2025-11-25,12:20,237,Scheduled Maintenance,Planned,213,1144,Preventive,Mr. Patrick Wilson,152
+358,P003-L1-M3,2025-04-21,15:04,99,Calibration,Planned,394,891,Preventive,Donna Coffey,188
+359,P002-L1-M3,2025-12-11,19:29,70,Scheduled Maintenance,Planned,318,1689,Preventive,Whitney Saunders,187
+360,P003-L3-M1,2025-10-06,11:02,160,Material Jam,Unplanned,418,3645,Corrective,Justin Alvarado,237
+361,P004-L4-M2,2025-08-27,07:10,30,Tool Change,Planned,456,1670,Preventive,Amanda Gillespie,154
+362,P002-L1-M2,2025-05-25,18:56,131,Scheduled Maintenance,Planned,136,1793,Preventive,Sarah Mendez,241
+363,P001-L4-M3,2025-05-15,12:04,351,Electrical Issue,Unplanned,321,1348,Corrective,Ashley Krueger,107
+364,P004-L3-M2,2025-01-07,12:20,440,Overheating,Unplanned,97,1700,Corrective,Dalton Kennedy,45
+365,P004-L5-M2,2025-11-06,11:40,179,Calibration,Planned,282,809,Preventive,Steven Willis,254
+366,P002-L1-M1,2025-08-10,21:01,111,Calibration,Planned,245,1239,Preventive,Adam Howard,48
+367,P001-L4-M1,2025-06-26,20:58,91,Material Jam,Unplanned,59,4190,Corrective,Ashley Rivera,223
+368,P002-L5-M2,2025-01-03,22:15,220,Calibration,Planned,81,1405,Preventive,Cassie Garner,20
+369,P002-L1-M1,2025-07-04,07:56,81,Safety Inspection,Planned,316,1049,Preventive,Jacob Hatfield,160
+370,P002-L4-M1,2025-11-17,09:20,31,Scheduled Maintenance,Planned,165,962,Preventive,Daniel Day,150
+371,P003-L3-M3,2025-11-19,16:50,185,Calibration,Planned,285,1320,Preventive,Jessica Rush,170
+372,P004-L4-M2,2025-12-14,12:59,451,Software Glitch,Unplanned,58,4977,Corrective,Dr. Alexander Henry,208
+373,P004-L4-M2,2025-11-13,06:02,54,Electrical Issue,Unplanned,280,4020,Corrective,Paula Henderson,210
+374,P002-L3-M2,2025-06-26,22:47,232,Calibration,Planned,71,774,Preventive,Nicholas Arnold,73
+375,P001-L1-M3,2025-12-16,07:04,383,Overheating,Unplanned,144,2775,Corrective,Erika Patel,226
+376,P001-L2-M1,2025-10-15,11:03,258,Calibration,Planned,444,350,Preventive,Jamie Stone,298
+377,P004-L1-M3,2025-07-26,20:11,235,Calibration,Planned,249,397,Preventive,Jeffrey Rodriguez,122
+378,P001-L1-M2,2025-08-01,18:52,185,Calibration,Planned,127,1144,Preventive,Michael Larson,99
+379,P004-L2-M3,2025-10-04,12:44,189,Scheduled Maintenance,Planned,163,1281,Preventive,Ray Lara,71
+380,P004-L2-M1,2025-06-24,11:12,109,Scheduled Maintenance,Planned,229,982,Preventive,Kristen Lewis,294
+381,P004-L1-M2,2025-12-26,22:10,103,Safety Inspection,Planned,50,1169,Preventive,David Fisher,184
+382,P001-L1-M1,2025-05-14,18:26,227,Scheduled Maintenance,Planned,264,1400,Preventive,Paula Moore,60
+383,P002-L4-M3,2025-10-02,21:35,186,Scheduled Maintenance,Planned,265,1032,Preventive,Larry Joseph,99
+384,P002-L4-M1,2025-01-27,07:40,186,Calibration,Planned,351,1862,Preventive,Annette Smith,168
+385,P003-L5-M1,2025-02-15,11:00,224,Belt Slippage,Unplanned,121,1584,Corrective,Michael Salinas,190
+386,P002-L1-M1,2025-03-16,15:09,170,Tool Change,Planned,64,1527,Preventive,Sarah Miller,296
+387,P003-L3-M2,2025-09-30,17:34,383,Sensor Failure,Unplanned,207,4388,Corrective,Ashley Johnson,138
+388,P004-L2-M1,2025-05-25,15:10,352,Overheating,Unplanned,61,2256,Corrective,Jordan Arnold,150
+389,P002-L3-M3,2025-01-13,06:14,202,Safety Inspection,Planned,312,1450,Preventive,Joshua Cook,151
+390,P001-L3-M3,2025-08-29,10:43,292,Safety Inspection,Planned,274,227,Preventive,James Keller,60
+391,P002-L3-M3,2025-10-10,17:53,143,Calibration,Planned,365,313,Preventive,Susan Cook,179
+392,P003-L5-M2,2025-08-19,22:01,229,Tool Change,Planned,399,1822,Preventive,Kevin Robinson,111
+393,P004-L3-M3,2025-11-11,07:47,190,Calibration,Planned,299,1331,Preventive,Lisa Ward,246
+394,P004-L2-M3,2025-02-16,16:04,269,Scheduled Maintenance,Planned,69,380,Preventive,Sandy Foster,82
+395,P003-L4-M1,2025-04-09,16:01,264,Calibration,Planned,167,828,Preventive,Mary Baker DDS,223
+396,P002-L5-M3,2025-04-10,13:38,49,Scheduled Maintenance,Planned,470,69,Preventive,William Wilson,211
+397,P003-L2-M2,2025-04-15,17:30,206,Calibration,Planned,430,1537,Preventive,David Maynard,80
+398,P004-L2-M1,2025-07-19,21:09,250,Mechanical Failure,Unplanned,350,1319,Corrective,Misty Knox,58
+399,P001-L5-M3,2025-03-05,22:22,279,Tool Change,Planned,425,399,Preventive,David Myers,35
+400,P001-L4-M1,2025-09-01,17:16,185,Tool Change,Planned,289,607,Preventive,Justin Jenkins,168
+401,P003-L5-M2,2025-06-19,13:09,252,Scheduled Maintenance,Planned,309,114,Preventive,Christopher Williams,227
+402,P001-L1-M1,2025-04-29,10:52,86,Safety Inspection,Planned,151,173,Preventive,Dustin Moore,188
+403,P002-L5-M1,2025-06-17,17:02,81,Scheduled Maintenance,Planned,63,289,Preventive,William Jensen,137
+404,P001-L3-M3,2025-10-01,11:46,157,Overheating,Unplanned,87,2866,Corrective,Rebecca Kelly,49
+405,P001-L4-M2,2025-08-05,09:24,50,Calibration,Planned,383,1151,Preventive,Makayla Bowman,215
+406,P002-L5-M3,2025-02-13,22:04,164,Safety Inspection,Planned,152,355,Preventive,Meghan Cortez,103
+407,P002-L2-M2,2025-10-27,13:47,129,Tool Change,Planned,480,1416,Preventive,Joshua Wilcox,242
+408,P003-L4-M3,2025-09-15,18:21,463,Tool Wear,Unplanned,427,2281,Corrective,Elizabeth Bauer,220
+409,P001-L5-M2,2025-11-06,07:49,97,Overheating,Unplanned,448,3703,Corrective,Ana White,173
+410,P003-L3-M3,2025-07-26,15:43,43,Tool Change,Planned,325,1519,Preventive,Howard Jackson,164
+411,P002-L3-M1,2025-01-30,13:25,460,Mechanical Failure,Unplanned,140,1819,Corrective,Jason Martinez,102
+412,P004-L5-M1,2025-07-24,20:26,100,Scheduled Maintenance,Planned,312,1866,Preventive,Henry Smith,89
+413,P004-L5-M2,2025-08-26,17:56,223,Scheduled Maintenance,Planned,494,187,Preventive,Tyler Rosario,177
+414,P001-L1-M3,2025-10-07,18:11,267,Safety Inspection,Planned,369,1576,Preventive,Haley Cooke,150
+415,P003-L1-M1,2025-08-01,20:20,133,Tool Change,Planned,69,1177,Preventive,Christopher Dixon,234
+416,P002-L3-M1,2025-02-06,12:02,109,Safety Inspection,Planned,251,1749,Preventive,Richard Gutierrez,88
+417,P001-L1-M3,2025-03-16,11:35,65,Calibration,Planned,270,1645,Preventive,Lindsey Jones,50
+418,P001-L2-M2,2025-12-21,06:44,142,Safety Inspection,Planned,301,119,Preventive,Colin Andersen,58
+419,P003-L1-M3,2025-03-20,15:00,264,Tool Change,Planned,285,1539,Preventive,Timothy Coleman,98
+420,P001-L5-M1,2025-03-18,20:55,266,Mechanical Failure,Unplanned,481,3324,Corrective,Dawn Montgomery,17
+421,P001-L3-M3,2025-12-25,19:56,294,Software Glitch,Unplanned,126,763,Corrective,Douglas Garcia,100
+422,P002-L2-M3,2025-04-28,15:00,128,Safety Inspection,Planned,187,613,Preventive,Michael Aguirre,78
+423,P001-L2-M2,2025-07-07,22:59,112,Tool Change,Planned,157,1558,Preventive,Andrew Turner,104
+424,P004-L3-M2,2025-01-30,15:01,255,Overheating,Unplanned,427,456,Corrective,William Frost,220
+425,P004-L5-M2,2025-02-07,17:04,54,Safety Inspection,Planned,432,282,Preventive,Nicholas Parsons,238
+426,P003-L5-M1,2025-10-13,09:50,236,Software Glitch,Unplanned,498,4215,Corrective,Katelyn Perkins,270
+427,P004-L1-M2,2025-05-13,18:31,166,Overheating,Unplanned,215,1867,Corrective,Alexander Blackwell,279
+428,P004-L3-M2,2025-03-30,20:25,259,Tool Change,Planned,429,1933,Preventive,Claire Baker,222
+429,P003-L3-M1,2025-02-08,14:15,266,Tool Change,Planned,359,1564,Preventive,Amy Banks,16
+430,P004-L4-M2,2025-05-11,20:42,250,Calibration,Planned,414,1820,Preventive,Kathy Strickland,150
+431,P001-L2-M3,2025-05-03,21:06,203,Material Jam,Unplanned,470,4218,Corrective,Christy Norton,234
+432,P004-L2-M1,2025-01-27,12:17,113,Tool Change,Planned,223,1655,Preventive,Steven Miller,269
+433,P002-L4-M2,2025-07-09,21:07,274,Tool Change,Planned,353,1549,Preventive,Mary Vasquez,91
+434,P001-L3-M2,2025-01-17,13:09,435,Software Glitch,Unplanned,224,2750,Corrective,Joseph Moore,163
+435,P003-L3-M1,2025-09-22,14:19,186,Scheduled Maintenance,Planned,449,1604,Preventive,Nathan Bailey,51
+436,P004-L2-M1,2025-06-12,22:17,58,Scheduled Maintenance,Planned,72,1756,Preventive,Daryl Stevens,68
+437,P003-L5-M3,2025-01-08,14:49,152,Safety Inspection,Planned,199,414,Preventive,Melissa Lynch,74
+438,P004-L5-M2,2025-12-31,08:42,102,Scheduled Maintenance,Planned,487,1003,Preventive,Amber Smith,255
+439,P002-L5-M2,2025-08-24,16:11,263,Calibration,Planned,347,1243,Preventive,Shirley Foster,96
+440,P004-L5-M2,2025-12-09,09:36,196,Software Glitch,Unplanned,386,453,Corrective,Melissa Ward,28
+441,P003-L1-M3,2025-10-26,11:11,101,Tool Change,Planned,265,755,Preventive,Glenda Marks,266
+442,P004-L1-M2,2025-04-07,19:35,81,Material Jam,Unplanned,238,1539,Corrective,James Garrett,81
+443,P003-L4-M1,2025-02-07,12:17,285,Calibration,Planned,111,1733,Preventive,Amy Kline,83
+444,P004-L5-M1,2025-04-13,08:00,43,Calibration,Planned,70,245,Preventive,Sarah Watkins,181
+445,P004-L4-M1,2025-11-11,14:18,244,Calibration Drift,Unplanned,286,3022,Corrective,Brandi Li,69
+446,P003-L4-M3,2025-12-20,12:45,142,Scheduled Maintenance,Planned,330,546,Preventive,Michael Kelly,109
+447,P004-L2-M1,2025-08-23,22:32,124,Belt Slippage,Unplanned,133,1245,Corrective,Steven Bailey,194
+448,P002-L3-M2,2025-12-19,22:03,80,Calibration,Planned,455,1246,Preventive,Jesse Carter,134
+449,P001-L2-M1,2025-11-23,18:05,130,Scheduled Maintenance,Planned,138,319,Preventive,Jennifer Phillips,24
+450,P002-L3-M1,2025-03-05,18:28,118,Safety Inspection,Planned,472,402,Preventive,Mr. Russell Horne Jr.,57
+451,P004-L2-M3,2025-12-13,20:44,46,Calibration,Planned,166,81,Preventive,Chad Miller,189
+452,P002-L3-M3,2025-10-19,18:04,287,Scheduled Maintenance,Planned,222,1659,Preventive,James Phillips,220
+453,P001-L5-M2,2025-01-17,06:15,48,Scheduled Maintenance,Planned,103,1217,Preventive,Michelle Watson,216
+454,P004-L5-M2,2025-10-09,11:33,224,Safety Inspection,Planned,197,421,Preventive,Katherine Rodriguez,58
+455,P001-L1-M3,2025-01-05,19:19,103,Calibration,Planned,145,1708,Preventive,Justin Ward,160
+456,P004-L5-M2,2025-09-17,16:19,91,Safety Inspection,Planned,302,484,Preventive,Daniel Cooper,188
+457,P003-L1-M2,2025-11-06,11:43,44,Safety Inspection,Planned,99,1688,Preventive,Victoria Smith,42
+458,P001-L2-M1,2025-04-08,13:19,174,Calibration,Planned,416,712,Preventive,Nichole Davenport,260
+459,P004-L5-M2,2025-09-17,13:01,85,Maintenance Window,Unplanned,400,4254,Corrective,Emma Wall,40
+460,P003-L1-M3,2025-08-10,16:35,119,Hydraulic Leak,Unplanned,302,4685,Corrective,Melody Duke,277
+461,P003-L1-M2,2025-05-20,19:00,105,Tool Change,Planned,475,1439,Preventive,Kenneth Kim,69
+462,P002-L2-M2,2025-11-26,09:32,471,Electrical Issue,Unplanned,337,4320,Corrective,Lisa Sanders,91
+463,P001-L2-M2,2025-03-26,12:40,99,Tool Change,Planned,213,209,Preventive,Vicki Smith,196
+464,P001-L3-M1,2025-07-11,09:39,248,Scheduled Maintenance,Planned,342,1332,Preventive,Dr. Rebecca Bennett,230
+465,P003-L2-M2,2025-09-02,07:52,237,Tool Change,Planned,462,1367,Preventive,Eric Gibson,62
+466,P001-L2-M3,2025-07-10,06:54,254,Tool Change,Planned,59,1050,Preventive,Lisa Morales,206
+467,P004-L3-M1,2025-01-27,18:57,299,Safety Inspection,Planned,121,1730,Preventive,James Reed,35
+468,P004-L4-M3,2025-09-21,14:40,296,Safety Inspection,Planned,305,1178,Preventive,Patricia Key,166
+469,P001-L2-M1,2025-09-11,06:06,271,Scheduled Maintenance,Planned,374,85,Preventive,Steven Harris,259
+470,P003-L1-M2,2025-05-05,13:21,233,Electrical Issue,Unplanned,234,2721,Corrective,Julie Gonzalez,166
+471,P002-L1-M3,2025-10-06,21:04,86,Safety Inspection,Planned,494,536,Preventive,Theresa Wallace,79
+472,P001-L1-M3,2025-07-31,08:10,229,Safety Inspection,Planned,355,1959,Preventive,David Lopez,55
+473,P002-L3-M2,2025-02-20,08:26,240,Safety Inspection,Planned,54,1709,Preventive,Kristi Mcbride,142
+474,P002-L1-M2,2025-12-02,14:05,72,Scheduled Maintenance,Planned,205,383,Preventive,Linda George,125
+475,P001-L2-M1,2025-05-05,12:10,407,Electrical Issue,Unplanned,453,4393,Corrective,Jennifer Huynh,255
+476,P004-L5-M2,2025-04-24,17:07,207,Tool Wear,Unplanned,53,3092,Corrective,Bobby Kane,297
+477,P004-L5-M1,2025-10-19,06:30,139,Scheduled Maintenance,Planned,261,1663,Preventive,Miguel Hooper,115
+478,P003-L5-M3,2025-01-31,19:16,75,Calibration,Planned,396,413,Preventive,Michael Sloan,290
+479,P002-L2-M2,2025-06-15,06:44,309,Operator Error,Unplanned,461,2178,Corrective,Nancy Baker,185
+480,P004-L4-M3,2025-10-04,21:56,80,Safety Inspection,Planned,175,1777,Preventive,Brian Jackson,205
+481,P002-L3-M1,2025-07-15,09:58,198,Maintenance Window,Unplanned,362,532,Corrective,Joshua Harris,118
+482,P001-L5-M2,2025-11-19,06:03,272,Tool Change,Planned,136,1352,Preventive,Laura Roach,223
+483,P004-L1-M1,2025-10-29,07:08,57,Material Jam,Unplanned,71,2183,Corrective,Lisa Huynh,283
+484,P003-L4-M1,2025-07-12,21:18,160,Scheduled Maintenance,Planned,464,806,Preventive,Brenda Knapp,210
+485,P003-L3-M1,2025-09-09,14:08,204,Calibration Drift,Unplanned,93,2671,Corrective,Meghan Garcia,129
+486,P001-L4-M1,2025-08-29,13:14,476,Sensor Failure,Unplanned,478,4106,Corrective,Adam Dixon,279
+487,P001-L5-M1,2025-11-18,09:44,283,Operator Error,Unplanned,282,2553,Corrective,John Blevins,33
+488,P001-L3-M3,2025-06-11,09:23,31,Calibration,Planned,99,1386,Preventive,Christopher Greene,159
+489,P003-L5-M2,2025-06-29,18:05,163,Scheduled Maintenance,Planned,429,1974,Preventive,Natalie Brown,94
+490,P001-L4-M1,2025-04-21,19:37,70,Calibration,Planned,472,1602,Preventive,Jennifer Long,191
+491,P003-L5-M3,2025-09-10,12:26,118,Calibration,Planned,195,1208,Preventive,Stuart Simpson,123
+492,P001-L1-M1,2025-01-20,16:06,54,Safety Inspection,Planned,166,1218,Preventive,Jocelyn Alexander,262
+493,P001-L3-M2,2025-03-21,13:46,226,Software Glitch,Unplanned,494,978,Corrective,Jeremy Merritt,226
+494,P003-L5-M2,2025-02-04,14:35,388,Operator Error,Unplanned,226,851,Corrective,Autumn Rivera,17
+495,P004-L3-M3,2025-03-06,13:01,207,Scheduled Maintenance,Planned,285,1144,Preventive,Shannon White,101
+496,P003-L4-M1,2025-07-16,09:11,317,Sensor Failure,Unplanned,334,3114,Corrective,Megan Love,57
+497,P004-L5-M2,2025-05-27,11:51,115,Sensor Failure,Unplanned,462,370,Corrective,Nicole Burton,159
+498,P004-L4-M3,2025-12-07,20:29,130,Calibration,Planned,293,96,Preventive,Debbie Wood,34
+499,P001-L1-M2,2025-11-03,13:03,51,Tool Change,Planned,361,369,Preventive,Brittany Martin,160
+500,P003-L1-M3,2025-05-20,19:09,297,Tool Change,Planned,403,958,Preventive,Brandi White,195
+501,P004-L5-M2,2025-06-24,18:38,298,Tool Change,Planned,323,1295,Preventive,Rita Curtis,274
+502,P001-L4-M3,2025-05-17,14:20,180,Scheduled Maintenance,Planned,307,116,Preventive,Jessica Martin,252
+503,P003-L3-M3,2025-09-14,21:52,165,Scheduled Maintenance,Planned,90,1625,Preventive,Matthew Harvey,150
+504,P004-L5-M1,2025-05-05,19:15,172,Safety Inspection,Planned,386,1811,Preventive,Megan Waters,165
+505,P004-L3-M2,2025-06-08,19:44,61,Scheduled Maintenance,Planned,299,1241,Preventive,Teresa Wilson,90
+506,P001-L1-M2,2025-05-11,16:10,171,Safety Inspection,Planned,465,462,Preventive,Christine Flores,233
+507,P003-L1-M2,2025-08-22,11:28,83,Tool Change,Planned,208,315,Preventive,Mr. Glen Nelson,30
+508,P002-L4-M2,2025-01-04,13:14,350,Sensor Failure,Unplanned,466,364,Corrective,Jonathan Patrick,264
+509,P002-L4-M2,2025-08-17,22:53,200,Operator Error,Unplanned,101,2472,Corrective,Chelsea English,199
+510,P002-L3-M1,2025-05-23,09:07,387,Operator Error,Unplanned,153,1819,Corrective,Joshua Odonnell,128
+511,P004-L5-M1,2025-10-23,18:57,287,Tool Change,Planned,488,480,Preventive,Courtney English,253
+512,P002-L2-M2,2025-09-16,18:32,94,Calibration,Planned,244,1582,Preventive,David Smith,100
+513,P002-L3-M2,2025-05-08,10:46,236,Scheduled Maintenance,Planned,306,472,Preventive,David Meyers,50
+514,P001-L4-M2,2025-08-30,17:35,256,Calibration,Planned,297,1380,Preventive,Jerry Quinn,118
+515,P003-L3-M2,2025-09-28,21:50,57,Safety Inspection,Planned,216,262,Preventive,Dwayne Reid,217
+516,P003-L2-M2,2025-12-12,09:38,403,Mechanical Failure,Unplanned,305,3836,Corrective,John Gibbs,63
+517,P001-L5-M3,2025-09-15,17:11,243,Tool Change,Planned,120,190,Preventive,Jared Webb,262
+518,P004-L5-M3,2025-01-07,13:32,74,Scheduled Maintenance,Planned,284,1039,Preventive,Shannon Robbins,154
+519,P002-L2-M1,2025-01-18,21:08,107,Calibration,Planned,136,793,Preventive,Lisa Rios,44
+520,P001-L3-M2,2025-12-01,18:50,116,Safety Inspection,Planned,273,753,Preventive,Megan King,201
+521,P002-L1-M1,2025-12-17,09:07,249,Safety Inspection,Planned,210,1578,Preventive,Rachel Webster,31
+522,P003-L3-M1,2025-04-20,07:59,275,Tool Change,Planned,421,1378,Preventive,Mrs. Audrey Garcia,101
+523,P001-L5-M2,2025-11-26,06:56,42,Overheating,Unplanned,188,3484,Corrective,Christopher Henry,27
+524,P001-L4-M3,2025-12-30,09:07,91,Tool Change,Planned,472,638,Preventive,Charles Howe,105
+525,P003-L5-M1,2025-07-06,16:26,48,Calibration,Planned,477,451,Preventive,Diana Neal,218
+526,P004-L1-M3,2025-07-18,08:26,268,Tool Change,Planned,496,380,Preventive,Jorge Gilbert,268
+527,P001-L5-M1,2025-03-18,09:12,306,Maintenance Window,Unplanned,376,129,Corrective,Brandon Gomez,117
+528,P001-L3-M2,2025-09-24,11:26,252,Safety Inspection,Planned,386,1632,Preventive,Rachel Gray,281
+529,P003-L5-M2,2025-10-08,18:12,280,Scheduled Maintenance,Planned,368,1187,Preventive,Carla Salazar,42
+530,P002-L2-M3,2025-05-01,08:59,160,Calibration,Planned,471,1823,Preventive,Kyle Nielsen,40
+531,P001-L5-M2,2025-05-23,08:47,269,Material Jam,Unplanned,295,1144,Corrective,John Faulkner,185
+532,P004-L5-M3,2025-09-14,17:48,225,Calibration Drift,Unplanned,458,487,Corrective,Erica Campbell,48
+533,P003-L3-M3,2025-12-28,18:16,37,Safety Inspection,Planned,445,1001,Preventive,Micheal Brown,129
+534,P002-L5-M2,2025-06-04,12:28,236,Calibration,Planned,91,1897,Preventive,Kathy Brown,210
+535,P003-L3-M3,2025-04-28,11:06,41,Scheduled Maintenance,Planned,110,656,Preventive,Tracey Brown,252
+536,P002-L1-M3,2025-08-06,10:57,289,Safety Inspection,Planned,412,1463,Preventive,Tyler Ware,187
+537,P001-L3-M3,2025-02-25,17:29,207,Tool Change,Planned,338,781,Preventive,Thomas Walsh,293
+538,P004-L2-M3,2025-11-06,20:44,176,Scheduled Maintenance,Planned,270,1585,Preventive,Scott Williamson,163
+539,P002-L5-M2,2025-01-17,16:17,197,Calibration,Planned,258,1230,Preventive,Stephen Wallace,265
+540,P001-L3-M1,2025-06-17,18:21,230,Scheduled Maintenance,Planned,317,110,Preventive,Michael Ward,210
+541,P002-L1-M1,2025-04-03,08:17,49,Scheduled Maintenance,Planned,152,324,Preventive,Mr. Thomas Reid,50
+542,P002-L5-M3,2025-11-26,17:31,61,Tool Change,Planned,206,1883,Preventive,Christine Santiago,207
+543,P003-L2-M2,2025-06-18,13:28,40,Scheduled Maintenance,Planned,392,1845,Preventive,Thomas Keller,200
+544,P004-L3-M3,2025-09-23,07:08,111,Safety Inspection,Planned,160,554,Preventive,John Young,87
+545,P002-L4-M3,2025-12-12,14:17,302,Software Glitch,Unplanned,79,524,Corrective,Terry Bass,159
+546,P001-L2-M2,2025-04-28,17:07,78,Material Jam,Unplanned,219,995,Corrective,Sandra Singh,174
+547,P001-L3-M3,2025-02-16,16:08,124,Scheduled Maintenance,Planned,69,1328,Preventive,Kathy Carlson,272
+548,P004-L3-M1,2025-02-16,06:12,178,Maintenance Window,Unplanned,365,1177,Corrective,Shannon Lewis,256
+549,P003-L2-M1,2025-09-20,06:53,450,Calibration Drift,Unplanned,133,4842,Corrective,Dr. Ronald Hawkins,113
+550,P002-L5-M2,2025-06-08,20:43,61,Safety Inspection,Planned,113,1523,Preventive,William Bentley,206
+551,P004-L3-M1,2025-01-29,20:25,193,Calibration,Planned,369,301,Preventive,Daniel Collins,190
+552,P002-L1-M3,2025-04-04,20:04,191,Safety Inspection,Planned,145,959,Preventive,Benjamin Randall,259
+553,P001-L1-M1,2025-08-14,22:53,222,Scheduled Maintenance,Planned,482,1517,Preventive,Andrea Holmes,127
+554,P003-L1-M2,2025-06-13,16:00,79,Calibration,Planned,333,1880,Preventive,Karen Andersen,239
+555,P001-L1-M1,2025-12-10,11:39,277,Maintenance Window,Unplanned,178,293,Corrective,Omar Taylor,66
+556,P001-L2-M2,2025-07-02,19:45,49,Software Glitch,Unplanned,171,1043,Corrective,Brenda Todd,112
+557,P001-L1-M1,2025-01-07,13:52,297,Safety Inspection,Planned,184,203,Preventive,Nancy Butler,268
+558,P002-L5-M2,2025-01-01,19:08,453,Sensor Failure,Unplanned,235,3537,Corrective,Justin English,134
+559,P002-L2-M3,2025-06-18,22:07,213,Calibration,Planned,317,107,Preventive,Gregory Thomas,188
+560,P003-L4-M2,2025-02-27,20:12,193,Tool Change,Planned,284,1197,Preventive,Megan Brown,156
+561,P004-L3-M2,2025-01-23,13:55,144,Calibration,Planned,207,1970,Preventive,Daniel Reeves,282
+562,P001-L5-M1,2025-01-23,17:10,229,Scheduled Maintenance,Planned,313,109,Preventive,Nicole Smith,167
+563,P001-L2-M1,2025-03-06,10:47,35,Scheduled Maintenance,Planned,418,267,Preventive,Mary Arnold,179
+564,P001-L3-M1,2025-07-13,17:02,195,Safety Inspection,Planned,357,525,Preventive,Victoria Cox,142
+565,P004-L1-M3,2025-08-06,21:33,124,Safety Inspection,Planned,222,80,Preventive,Ashley Charles,159
+566,P002-L3-M3,2025-01-31,06:57,280,Calibration,Planned,387,1385,Preventive,John Rodriguez,152
+567,P004-L5-M1,2025-09-30,08:07,100,Scheduled Maintenance,Planned,237,152,Preventive,Leah Davis,38
+568,P004-L4-M3,2025-10-21,21:10,274,Scheduled Maintenance,Planned,460,1121,Preventive,Jessica Spence,295
+569,P001-L3-M1,2025-04-30,13:34,108,Tool Change,Planned,154,750,Preventive,Cynthia Cooper,273
+570,P002-L1-M2,2025-10-21,12:19,74,Operator Error,Unplanned,449,4371,Corrective,David Wilson,73
+571,P002-L2-M3,2025-11-28,09:29,208,Tool Change,Planned,495,360,Preventive,Luis Hawkins,37
+572,P001-L2-M1,2025-08-08,13:39,236,Safety Inspection,Planned,418,1798,Preventive,Brent Warner,266
+573,P004-L3-M1,2025-11-24,07:18,93,Electrical Issue,Unplanned,273,2379,Corrective,Valerie Moore,75
+574,P004-L4-M1,2025-03-28,21:13,102,Mechanical Failure,Unplanned,437,3484,Corrective,Stephen Evans,212
+575,P001-L2-M1,2025-01-09,21:19,290,Calibration,Planned,406,1136,Preventive,Mike Woods,49
+576,P004-L1-M2,2025-07-28,19:37,101,Safety Inspection,Planned,322,122,Preventive,Kayla Baldwin,172
+577,P003-L4-M3,2025-06-23,12:25,46,Scheduled Maintenance,Planned,254,1676,Preventive,Frank Sheppard,177
+578,P001-L1-M1,2025-01-16,16:46,296,Calibration,Planned,372,841,Preventive,Rebekah Shea,287
+579,P002-L2-M2,2025-08-18,14:52,241,Scheduled Maintenance,Planned,50,977,Preventive,Crystal Davis,185
+580,P004-L1-M3,2025-08-08,15:41,69,Scheduled Maintenance,Planned,90,1049,Preventive,Lisa Jackson,175
+581,P004-L3-M2,2025-12-08,15:46,298,Safety Inspection,Planned,244,1881,Preventive,Andrew Lara,117
+582,P003-L2-M1,2025-03-05,14:23,324,Software Glitch,Unplanned,315,4163,Corrective,Cynthia Berry,158
+583,P001-L1-M3,2025-09-15,13:33,63,Scheduled Maintenance,Planned,370,316,Preventive,Lisa Hart,93
+584,P004-L3-M1,2025-08-28,16:02,247,Tool Change,Planned,138,553,Preventive,Roy Casey,280
+585,P004-L2-M1,2025-12-13,09:32,44,Safety Inspection,Planned,300,1278,Preventive,Michele Lewis,266
+586,P002-L3-M1,2025-05-16,14:20,127,Calibration,Planned,262,776,Preventive,Ian Thomas,106
+587,P002-L5-M2,2025-01-11,19:46,253,Safety Inspection,Planned,127,1318,Preventive,Adam Bryant,16
+588,P001-L5-M1,2025-01-29,06:53,471,Belt Slippage,Unplanned,338,984,Corrective,Ronald Kim,23
+589,P003-L1-M3,2025-12-11,07:49,296,Hydraulic Leak,Unplanned,277,581,Corrective,Michele Hutchinson,15
+590,P003-L5-M2,2025-08-12,14:29,132,Tool Change,Planned,149,394,Preventive,John Mcdaniel,163
+591,P003-L2-M3,2025-12-17,15:14,242,Software Glitch,Unplanned,161,2857,Corrective,Madison Guerrero,147
+592,P003-L2-M3,2025-03-30,14:02,132,Material Jam,Unplanned,59,132,Corrective,Jessica Russell,187
+593,P004-L3-M3,2025-07-09,10:09,244,Scheduled Maintenance,Planned,243,949,Preventive,Kelsey Sweeney,259
+594,P002-L4-M3,2025-05-13,12:54,189,Safety Inspection,Planned,489,1557,Preventive,Stephen Smith,214
+595,P001-L3-M2,2025-05-29,12:59,186,Calibration,Planned,421,1638,Preventive,Jennifer Freeman,23
+596,P001-L3-M1,2025-10-02,08:22,106,Safety Inspection,Planned,204,1278,Preventive,Mark Simpson,155
+597,P004-L2-M3,2025-05-04,15:41,274,Tool Change,Planned,481,1431,Preventive,Brittany Avery,180
+598,P003-L3-M2,2025-12-04,12:24,475,Belt Slippage,Unplanned,317,2777,Corrective,Randall Patterson,247
+599,P003-L4-M2,2025-03-24,22:57,289,Software Glitch,Unplanned,169,408,Corrective,Christine Jackson,250
+600,P002-L2-M3,2025-12-22,19:06,116,Calibration,Planned,258,1588,Preventive,Douglas Palmer,136
+601,P001-L4-M3,2025-08-30,17:25,42,Calibration,Planned,66,1282,Preventive,Nathan Jones,192
+602,P004-L2-M3,2025-01-29,15:47,299,Mechanical Failure,Unplanned,138,2627,Corrective,Sharon Williams,37
+603,P002-L4-M2,2025-04-01,17:23,117,Tool Change,Planned,375,1938,Preventive,Sean Hughes,18
+604,P001-L3-M2,2025-05-03,07:09,378,Calibration Drift,Unplanned,361,1650,Corrective,Kevin Guzman,130
+605,P003-L4-M2,2025-01-01,13:28,35,Safety Inspection,Planned,187,556,Preventive,Valerie Perez,126
+606,P001-L4-M1,2025-04-13,20:03,66,Calibration,Planned,78,961,Preventive,David Long,281
+607,P001-L4-M3,2025-11-28,20:18,60,Calibration,Planned,426,1936,Preventive,Caroline Young,104
+608,P004-L5-M3,2025-05-24,21:48,298,Sensor Failure,Unplanned,76,3411,Corrective,Donna Taylor,20
+609,P002-L3-M3,2025-09-20,09:24,267,Calibration,Planned,410,700,Preventive,Amy Williams,191
+610,P002-L1-M1,2025-11-13,06:56,178,Tool Wear,Unplanned,464,4043,Corrective,Brian Rose,71
+611,P004-L2-M3,2025-09-30,06:18,42,Calibration,Planned,455,321,Preventive,Alexander Turner,40
+612,P004-L1-M2,2025-11-15,10:13,76,Safety Inspection,Planned,313,1878,Preventive,John Taylor,269
+613,P001-L3-M1,2025-05-08,06:49,252,Scheduled Maintenance,Planned,473,1198,Preventive,Kelly Villa DDS,277
+614,P004-L4-M1,2025-08-01,09:44,334,Software Glitch,Unplanned,444,3393,Corrective,Ariel Greene,108
+615,P002-L1-M2,2025-08-15,13:47,102,Calibration,Planned,323,1632,Preventive,Stanley Herrera,71
+616,P004-L4-M3,2025-05-20,17:25,144,Calibration,Planned,62,357,Preventive,Kimberly Jones,104
+617,P002-L3-M2,2025-01-24,19:51,107,Scheduled Maintenance,Planned,375,494,Preventive,Kimberly Hahn,93
+618,P001-L1-M1,2025-08-14,06:04,70,Safety Inspection,Planned,188,1035,Preventive,Ronald Wheeler,277
+619,P002-L4-M1,2025-03-15,08:23,391,Belt Slippage,Unplanned,280,1261,Corrective,Nicole Neal,184
+620,P001-L3-M3,2025-03-30,21:32,434,Calibration Drift,Unplanned,247,1111,Corrective,James Hill,192
+621,P001-L4-M3,2025-03-24,11:14,115,Belt Slippage,Unplanned,320,2505,Corrective,Caleb Anderson,51
+622,P001-L5-M2,2025-07-23,20:20,54,Tool Change,Planned,71,1765,Preventive,Jesse Mcguire,118
+623,P002-L1-M2,2025-10-06,19:04,229,Scheduled Maintenance,Planned,381,1171,Preventive,Tiffany Butler,67
+624,P001-L3-M3,2025-02-04,15:29,123,Operator Error,Unplanned,231,3404,Corrective,Hannah Holland,54
+625,P004-L4-M2,2025-12-01,16:02,288,Scheduled Maintenance,Planned,111,1687,Preventive,Michael Green,281
+626,P003-L4-M1,2025-10-24,13:37,292,Operator Error,Unplanned,215,4602,Corrective,Robert Chen,122
+627,P002-L1-M1,2025-08-09,15:05,164,Tool Change,Planned,58,1032,Preventive,Stephen Owen,123
+628,P003-L2-M3,2025-05-06,13:50,292,Calibration,Planned,173,271,Preventive,Tony Roberts,50
+629,P004-L4-M3,2025-10-15,11:43,140,Calibration,Planned,175,434,Preventive,Christy Blankenship,145
+630,P003-L4-M3,2025-05-05,14:29,300,Safety Inspection,Planned,92,1787,Preventive,Tommy Acevedo,140
+631,P001-L2-M1,2025-01-05,14:52,154,Material Jam,Unplanned,306,3795,Corrective,Nicholas Estrada,60
+632,P001-L1-M2,2025-11-17,10:14,232,Tool Change,Planned,146,1961,Preventive,Yolanda Delgado,288
+633,P004-L1-M1,2025-11-23,06:58,230,Electrical Issue,Unplanned,273,2806,Corrective,Tami Lopez,219
+634,P004-L2-M1,2025-11-18,12:11,276,Calibration,Planned,484,335,Preventive,Keith Johnson,136
+635,P002-L2-M1,2025-02-05,19:28,161,Calibration,Planned,311,1343,Preventive,Wanda Brown,192
+636,P004-L2-M3,2025-04-04,08:41,239,Tool Change,Planned,306,1552,Preventive,Jonathan Fisher,160
+637,P003-L2-M2,2025-05-19,16:41,147,Calibration,Planned,443,1230,Preventive,Barry Terry,62
+638,P002-L4-M1,2025-07-29,06:30,280,Electrical Issue,Unplanned,54,785,Corrective,Katherine Johnson,104
+639,P004-L3-M1,2025-10-19,22:09,152,Tool Change,Planned,391,961,Preventive,Leslie Morris MD,156
+640,P004-L1-M1,2025-09-14,13:43,283,Calibration,Planned,455,718,Preventive,Sean Bartlett,166
+641,P002-L3-M3,2025-09-10,09:21,284,Safety Inspection,Planned,448,117,Preventive,Shannon Edwards,259
+642,P001-L3-M1,2025-01-29,07:38,452,Belt Slippage,Unplanned,394,1043,Corrective,David Chavez,189
+643,P002-L2-M3,2025-04-14,17:21,50,Safety Inspection,Planned,358,480,Preventive,Betty Torres,85
+644,P001-L1-M2,2025-09-15,21:41,45,Mechanical Failure,Unplanned,458,4151,Corrective,Savannah Lucas,67
+645,P002-L2-M1,2025-12-08,13:29,239,Electrical Issue,Unplanned,224,2869,Corrective,Dr. Melissa Chase,270
+646,P002-L4-M2,2025-12-26,07:42,82,Material Jam,Unplanned,425,1307,Corrective,Bradley Gonzalez,88
+647,P001-L3-M3,2025-09-28,13:11,285,Tool Change,Planned,355,1532,Preventive,Zachary Anderson,283
+648,P001-L2-M3,2025-02-02,21:11,109,Calibration,Planned,117,846,Preventive,Brian Robinson,58
+649,P001-L3-M3,2025-05-26,17:36,62,Calibration,Planned,405,1809,Preventive,Tracy Brown,123
+650,P002-L5-M1,2025-01-10,17:29,159,Safety Inspection,Planned,71,915,Preventive,Wendy Moore,149
+651,P002-L4-M2,2025-03-22,08:40,49,Calibration,Planned,464,555,Preventive,Robert Williams,233
+652,P004-L3-M1,2025-10-31,15:57,159,Scheduled Maintenance,Planned,166,1540,Preventive,Joshua Mullins,116
+653,P001-L1-M3,2025-08-26,21:48,123,Calibration,Planned,274,323,Preventive,Jimmy Knight,98
+654,P003-L3-M2,2025-07-29,21:19,47,Tool Change,Planned,280,612,Preventive,John Jones,176
+655,P004-L5-M2,2025-04-29,08:42,286,Safety Inspection,Planned,444,1494,Preventive,Tyler Salinas,247
+656,P003-L4-M1,2025-07-15,10:54,143,Scheduled Maintenance,Planned,221,1640,Preventive,John Berry,172
+657,P003-L5-M2,2025-12-31,10:46,62,Safety Inspection,Planned,169,201,Preventive,Vanessa Campos,70
+658,P004-L2-M3,2025-05-10,08:49,408,Electrical Issue,Unplanned,443,4715,Corrective,Rebecca Church,269
+659,P002-L5-M2,2025-03-05,17:43,198,Tool Change,Planned,426,1883,Preventive,Jeff Harris,133
+660,P002-L1-M2,2025-08-22,13:10,477,Tool Wear,Unplanned,292,4808,Corrective,Paul Goodman,273
+661,P004-L5-M1,2025-05-09,12:57,392,Tool Wear,Unplanned,342,775,Corrective,Jeffrey Edwards,130
+662,P003-L4-M3,2025-06-29,19:34,191,Calibration,Planned,464,109,Preventive,James Wong,194
+663,P003-L3-M3,2025-05-13,12:03,285,Safety Inspection,Planned,464,1815,Preventive,Alfred Turner,145
+664,P002-L1-M3,2025-11-05,10:57,207,Tool Change,Planned,312,939,Preventive,Jessica Valdez,59
+665,P001-L5-M3,2025-09-18,07:29,199,Safety Inspection,Planned,93,1411,Preventive,Cindy Pineda,66
+666,P003-L4-M1,2025-02-15,17:15,190,Scheduled Maintenance,Planned,222,1328,Preventive,Robin Lane,299
+667,P001-L3-M3,2025-03-13,13:18,61,Safety Inspection,Planned,214,512,Preventive,Richard Chase,162
+668,P001-L3-M2,2025-09-15,16:50,269,Scheduled Maintenance,Planned,201,1047,Preventive,David Jones,227
+669,P003-L5-M1,2025-12-21,13:51,221,Tool Change,Planned,437,1313,Preventive,Dawn Jackson,130
+670,P002-L2-M3,2025-04-26,10:16,86,Scheduled Maintenance,Planned,206,638,Preventive,Jesse Sanchez,293
+671,P002-L1-M1,2025-07-27,14:50,144,Tool Wear,Unplanned,396,1681,Corrective,Dr. Joshua Duarte,172
+672,P003-L5-M3,2025-11-08,12:24,220,Tool Change,Planned,490,1361,Preventive,Brian Johnson,214
+673,P002-L2-M2,2025-01-11,12:14,114,Scheduled Maintenance,Planned,91,416,Preventive,Julie Novak,121
+674,P002-L4-M1,2025-12-13,21:29,229,Sensor Failure,Unplanned,291,1306,Corrective,Kenneth Frazier,137
+675,P004-L5-M2,2025-12-25,09:40,43,Tool Change,Planned,334,796,Preventive,James Ramirez,174
+676,P004-L2-M2,2025-01-13,16:06,149,Safety Inspection,Planned,401,339,Preventive,James Woods,249
+677,P001-L4-M3,2025-03-14,09:00,209,Safety Inspection,Planned,177,1088,Preventive,Dr. Christopher Adams,216
+678,P002-L1-M1,2025-10-01,22:30,82,Calibration,Planned,108,1866,Preventive,Julia Wiggins,209
+679,P004-L1-M2,2025-03-06,21:25,170,Calibration,Planned,226,288,Preventive,Kurt Smith,204
+680,P004-L5-M3,2025-07-07,20:53,223,Calibration,Planned,271,1831,Preventive,Craig Sanchez,208
+681,P004-L3-M1,2025-02-25,08:17,179,Scheduled Maintenance,Planned,372,1587,Preventive,Jeffrey Frost,277
+682,P002-L3-M1,2025-09-11,06:23,364,Calibration Drift,Unplanned,75,1671,Corrective,Stephanie Roberts,251
+683,P004-L3-M2,2025-12-08,06:41,240,Calibration,Planned,60,700,Preventive,David Doyle,297
+684,P001-L4-M1,2025-06-10,16:25,242,Tool Change,Planned,98,796,Preventive,Hunter Bowers,213
+685,P004-L4-M2,2025-06-28,10:10,174,Scheduled Maintenance,Planned,126,1441,Preventive,Jeffrey Wright,286
+686,P002-L4-M1,2025-03-12,19:02,250,Calibration,Planned,170,414,Preventive,Amber Vasquez,60
+687,P004-L5-M3,2025-06-02,17:31,267,Tool Change,Planned,249,917,Preventive,Steven Roy,170
+688,P003-L3-M1,2025-07-29,09:54,292,Hydraulic Leak,Unplanned,108,4352,Corrective,Anthony Henry,69
+689,P004-L3-M2,2025-06-25,18:34,148,Calibration,Planned,290,1302,Preventive,Rebecca Williams,33
+690,P002-L3-M2,2025-04-10,07:13,90,Safety Inspection,Planned,79,740,Preventive,Carlos Lawson,287
+691,P002-L5-M2,2025-06-04,14:21,143,Scheduled Maintenance,Planned,82,1066,Preventive,Yolanda Murphy,59
+692,P001-L5-M2,2025-12-15,18:52,199,Material Jam,Unplanned,338,1486,Corrective,Mary Roberts,163
+693,P002-L3-M1,2025-11-12,18:35,137,Calibration,Planned,421,562,Preventive,Paul Francis,164
+694,P004-L1-M3,2025-09-12,13:07,58,Safety Inspection,Planned,153,1039,Preventive,David Young V,272
+695,P003-L5-M2,2025-11-26,12:51,139,Tool Change,Planned,220,1662,Preventive,Oscar Nichols,172
+696,P001-L3-M3,2025-04-01,13:41,348,Hydraulic Leak,Unplanned,86,1877,Corrective,Randy Medina,97
+697,P003-L4-M1,2025-05-28,22:55,140,Calibration,Planned,274,792,Preventive,Victoria Cunningham,52
+698,P003-L1-M2,2025-07-31,19:44,76,Scheduled Maintenance,Planned,160,1394,Preventive,Amy Patel,269
+699,P002-L2-M1,2025-09-26,22:46,226,Operator Error,Unplanned,384,4047,Corrective,Victoria Williams,38
+700,P003-L3-M2,2025-11-08,17:22,83,Scheduled Maintenance,Planned,394,101,Preventive,John Simmons,119
+701,P003-L2-M3,2025-01-20,14:25,86,Calibration,Planned,245,994,Preventive,Donald Brooks,181
+702,P003-L3-M2,2025-11-10,19:34,52,Tool Change,Planned,403,213,Preventive,Shawn Sandoval,198
+703,P001-L1-M1,2025-08-23,13:02,300,Tool Change,Planned,399,315,Preventive,Cheyenne Stewart,193
+704,P003-L3-M1,2025-01-01,07:11,275,Scheduled Maintenance,Planned,496,758,Preventive,Anna Moore,214
+705,P003-L4-M2,2025-07-24,06:23,259,Calibration,Planned,422,1865,Preventive,Teresa Larsen,95
+706,P004-L3-M3,2025-12-17,19:23,116,Scheduled Maintenance,Planned,307,1448,Preventive,Amy Shepard,279
+707,P001-L4-M2,2025-07-23,09:10,390,Overheating,Unplanned,110,2291,Corrective,Alexander Davis,249
+708,P001-L4-M1,2025-12-17,15:18,59,Calibration,Planned,453,310,Preventive,Natalie Copeland,290
+709,P004-L5-M3,2025-08-20,07:22,83,Sensor Failure,Unplanned,326,1264,Corrective,Devin Daniels,298
+710,P001-L2-M1,2025-06-01,13:43,204,Safety Inspection,Planned,140,1986,Preventive,Michael Villegas,49
+711,P001-L5-M2,2025-01-24,11:38,290,Tool Change,Planned,135,163,Preventive,William Curry,297
+712,P003-L4-M2,2025-01-09,14:33,127,Tool Change,Planned,205,1521,Preventive,Lori Walton,279
+713,P003-L4-M2,2025-12-20,22:30,396,Electrical Issue,Unplanned,127,2522,Corrective,Heather Woods,244
+714,P002-L1-M3,2025-10-18,08:09,226,Tool Change,Planned,144,1778,Preventive,Tina Lucas MD,285
+715,P002-L1-M1,2025-02-15,06:26,82,Scheduled Maintenance,Planned,355,985,Preventive,Lee Jones,196
+716,P001-L1-M2,2025-11-11,12:09,27,Mechanical Failure,Unplanned,398,1697,Corrective,Shelby Lewis,232
+717,P002-L5-M3,2025-04-24,18:02,159,Scheduled Maintenance,Planned,63,146,Preventive,Mark Lucas,205
+718,P004-L5-M1,2025-05-13,18:27,241,Calibration,Planned,485,1534,Preventive,Eric Gamble,163
+719,P004-L3-M2,2025-03-06,18:36,245,Safety Inspection,Planned,285,1819,Preventive,Jacqueline Dixon,255
+720,P001-L3-M3,2025-02-02,12:14,92,Software Glitch,Unplanned,265,2828,Corrective,Adam Lang,193
+721,P003-L2-M1,2025-09-11,19:32,165,Tool Wear,Unplanned,457,4553,Corrective,Micheal Johnson,33
+722,P001-L5-M2,2025-09-06,21:09,200,Safety Inspection,Planned,422,446,Preventive,Jonathan Deleon,269
+723,P003-L4-M3,2025-01-09,15:58,119,Calibration,Planned,369,799,Preventive,Yolanda Reynolds,216
+724,P003-L1-M3,2025-10-07,16:21,147,Calibration,Planned,164,1117,Preventive,Michael Mccarthy,38
+725,P001-L5-M1,2025-02-27,20:00,62,Safety Inspection,Planned,417,237,Preventive,Krista Watkins,224
+726,P004-L3-M3,2025-03-02,12:03,188,Calibration,Planned,84,635,Preventive,Joseph Williams,110
+727,P001-L4-M2,2025-12-07,19:09,237,Calibration,Planned,309,217,Preventive,Carolyn Harvey,107
+728,P002-L4-M3,2025-04-30,12:54,94,Scheduled Maintenance,Planned,447,1803,Preventive,David Brown MD,43
+729,P002-L3-M2,2025-02-16,08:41,205,Calibration,Planned,325,1646,Preventive,Kyle Moore,86
+730,P003-L5-M3,2025-05-03,12:43,60,Calibration,Planned,448,333,Preventive,Anthony Jimenez,168
+731,P003-L1-M2,2025-10-24,19:58,464,Tool Wear,Unplanned,461,3924,Corrective,Alexander Martinez,21
+732,P001-L3-M3,2025-10-17,07:42,37,Safety Inspection,Planned,361,1583,Preventive,William Davis,226
+733,P003-L3-M3,2025-05-19,06:21,216,Scheduled Maintenance,Planned,227,851,Preventive,Andre Richardson,103
+734,P004-L5-M2,2025-06-22,12:03,113,Safety Inspection,Planned,165,473,Preventive,Heather Lewis,56
+735,P002-L1-M1,2025-11-21,07:16,194,Safety Inspection,Planned,228,831,Preventive,Matthew Hodges,151
+736,P003-L1-M1,2025-02-18,06:59,270,Safety Inspection,Planned,213,436,Preventive,Larry Shaw,90
+737,P003-L2-M1,2025-02-20,09:31,51,Calibration,Planned,261,758,Preventive,Renee Hunt,43
+738,P003-L4-M3,2025-01-30,21:34,65,Calibration,Planned,439,1512,Preventive,Heather Gonzalez,69
+739,P004-L3-M3,2025-05-22,17:29,56,Scheduled Maintenance,Planned,54,53,Preventive,Emily Wilson,139
+740,P003-L4-M2,2025-10-17,11:54,184,Safety Inspection,Planned,352,278,Preventive,Larry Andrews,182
+741,P001-L2-M1,2025-02-12,16:37,120,Scheduled Maintenance,Planned,390,1750,Preventive,Dawn Vasquez,28
+742,P002-L2-M2,2025-07-27,14:40,182,Calibration,Planned,485,777,Preventive,Kimberly Frank,131
+743,P002-L4-M2,2025-08-24,17:13,124,Scheduled Maintenance,Planned,348,1520,Preventive,Dawn Li,180
+744,P003-L4-M1,2025-10-03,13:16,96,Scheduled Maintenance,Planned,144,541,Preventive,Michael Taylor,154
+745,P002-L2-M1,2025-12-13,09:16,248,Tool Change,Planned,457,187,Preventive,Billy Odom,257
+746,P002-L4-M1,2025-01-22,20:52,322,Maintenance Window,Unplanned,453,3667,Corrective,Erika Scott,124
+747,P002-L1-M2,2025-09-11,18:20,164,Scheduled Maintenance,Planned,405,1993,Preventive,Carrie Solomon,264
+748,P003-L1-M1,2025-10-03,11:34,265,Safety Inspection,Planned,59,1818,Preventive,Andrew Berry,24
+749,P003-L3-M1,2025-03-19,22:10,172,Calibration,Planned,218,1351,Preventive,Barry Shepard,124
+750,P004-L3-M1,2025-06-24,21:16,156,Safety Inspection,Planned,431,1778,Preventive,Tina Burton,167
+751,P003-L4-M1,2025-11-14,10:21,73,Material Jam,Unplanned,226,1840,Corrective,Daniel Scott,268
+752,P001-L2-M1,2025-11-11,11:08,95,Scheduled Maintenance,Planned,116,1080,Preventive,Wanda Hubbard,170
+753,P001-L5-M3,2025-05-16,21:55,93,Safety Inspection,Planned,355,1312,Preventive,Vincent Gibson,136
+754,P002-L4-M3,2025-04-24,08:12,59,Scheduled Maintenance,Planned,188,328,Preventive,Mrs. Emily Evans,284
+755,P003-L1-M1,2025-09-02,11:49,267,Calibration,Planned,167,803,Preventive,Jennifer Ruiz,16
+756,P002-L1-M2,2025-10-06,13:15,273,Scheduled Maintenance,Planned,73,147,Preventive,Jacob Garcia,298
+757,P002-L3-M3,2025-12-23,14:03,277,Calibration,Planned,99,1117,Preventive,Angela Clements,30
+758,P001-L4-M2,2025-10-28,06:35,147,Scheduled Maintenance,Planned,65,1749,Preventive,Howard Arias,238
+759,P003-L1-M1,2025-12-12,09:04,138,Tool Change,Planned,94,137,Preventive,Allison Key,178
+760,P001-L2-M2,2025-11-20,08:16,161,Safety Inspection,Planned,112,1155,Preventive,Janice Bush,291
+761,P002-L3-M1,2025-03-22,15:11,99,Tool Change,Planned,435,1342,Preventive,Patty Wright,110
+762,P004-L5-M2,2025-01-12,11:37,145,Tool Change,Planned,303,1571,Preventive,Mary Flores,182
+763,P003-L3-M3,2025-03-06,22:52,216,Safety Inspection,Planned,64,851,Preventive,Sierra Williams,109
+764,P004-L4-M2,2025-11-07,18:09,159,Safety Inspection,Planned,237,1355,Preventive,Dana Howard,236
+765,P004-L5-M2,2025-03-24,20:18,183,Calibration,Planned,114,895,Preventive,Reginald Hill,257
+766,P004-L2-M2,2025-06-20,09:32,190,Calibration,Planned,90,840,Preventive,Mary Banks,293
+767,P004-L3-M2,2025-11-11,13:23,32,Calibration,Planned,183,775,Preventive,James Flores,66
+768,P002-L4-M3,2025-07-20,11:56,264,Scheduled Maintenance,Planned,58,810,Preventive,Steven Petersen,246
+769,P001-L3-M1,2025-05-14,14:28,295,Safety Inspection,Planned,84,1950,Preventive,Cole Mathis,84
+770,P003-L4-M3,2025-06-21,14:10,233,Safety Inspection,Planned,465,1444,Preventive,Christopher Soto,298
+771,P004-L3-M1,2025-12-27,15:28,411,Sensor Failure,Unplanned,84,1849,Corrective,Brandy Olson,86
+772,P001-L1-M3,2025-01-01,14:41,50,Tool Change,Planned,182,721,Preventive,Sara Manning,206
+773,P003-L5-M3,2025-12-10,11:46,156,Safety Inspection,Planned,320,1026,Preventive,Chad Calhoun,271
+774,P001-L4-M1,2025-05-18,21:18,170,Mechanical Failure,Unplanned,304,4460,Corrective,Wanda Newman,78
+775,P001-L1-M2,2025-08-23,21:12,249,Calibration,Planned,347,1531,Preventive,Jeffrey Smith,34
+776,P003-L2-M1,2025-09-12,13:31,122,Safety Inspection,Planned,471,843,Preventive,Carla Rice,177
+777,P004-L5-M2,2025-12-30,18:41,43,Scheduled Maintenance,Planned,172,1124,Preventive,Tonya Nguyen,200
+778,P002-L4-M1,2025-04-15,06:24,193,Safety Inspection,Planned,95,1818,Preventive,Elizabeth Wood,202
+779,P003-L1-M1,2025-03-23,20:18,168,Tool Change,Planned,112,1730,Preventive,Alisha Hamilton,182
+780,P003-L1-M2,2025-01-20,09:54,143,Safety Inspection,Planned,259,280,Preventive,Monica Decker,186
+781,P004-L3-M2,2025-05-08,10:47,151,Software Glitch,Unplanned,478,3079,Corrective,Chloe Brown,287
+782,P004-L1-M1,2025-12-06,21:49,141,Mechanical Failure,Unplanned,177,2998,Corrective,Rodney Mack,273
+783,P001-L2-M1,2025-04-17,11:11,91,Calibration,Planned,488,1537,Preventive,Pedro Lynch,45
+784,P001-L5-M1,2025-08-27,13:38,232,Calibration,Planned,101,794,Preventive,Christopher Martinez,83
+785,P001-L3-M2,2025-07-09,12:26,391,Material Jam,Unplanned,351,3614,Corrective,Joel Tyler,188
+786,P001-L2-M2,2025-12-27,12:51,469,Calibration Drift,Unplanned,130,1408,Corrective,Joseph Brown,166
+787,P003-L2-M2,2025-01-07,16:51,141,Tool Change,Planned,499,225,Preventive,Janet Swanson,169
+788,P003-L1-M2,2025-12-26,16:53,148,Calibration,Planned,327,1222,Preventive,Kyle Willis,58
+789,P001-L2-M1,2025-10-08,16:08,60,Sensor Failure,Unplanned,94,4029,Corrective,Amanda Woods,51
+790,P001-L1-M1,2025-05-20,19:55,228,Safety Inspection,Planned,53,1745,Preventive,Nicolas Hernandez,192
+791,P004-L3-M1,2025-06-29,17:37,31,Calibration,Planned,418,831,Preventive,Erik Carroll,212
+792,P001-L2-M1,2025-10-15,08:49,307,Material Jam,Unplanned,171,413,Corrective,Hannah Peck,247
+793,P004-L4-M3,2025-07-24,22:08,159,Tool Change,Planned,89,1969,Preventive,Rachel Santos,260
+794,P003-L3-M1,2025-01-26,07:48,189,Tool Change,Planned,339,1195,Preventive,Robert Gonzalez,26
+795,P004-L1-M3,2025-04-24,22:46,145,Calibration,Planned,370,1372,Preventive,Mark Hogan,130
+796,P001-L4-M2,2025-04-27,07:22,141,Tool Change,Planned,73,1768,Preventive,Natasha Moore,136
+797,P001-L5-M2,2025-03-30,14:23,133,Scheduled Maintenance,Planned,137,980,Preventive,James Walker,29
+798,P004-L4-M2,2025-03-21,10:33,192,Scheduled Maintenance,Planned,370,122,Preventive,Jeremy Smith,19
+799,P003-L4-M1,2025-07-13,07:29,176,Calibration,Planned,389,1751,Preventive,Cassandra Long,109
+800,P001-L5-M3,2025-11-11,09:53,142,Scheduled Maintenance,Planned,368,264,Preventive,Jesus Jackson,180
