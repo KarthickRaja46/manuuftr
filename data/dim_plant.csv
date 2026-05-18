@@ -1,5 +1,5 @@
 PlantID,PlantName,Location,Region,Country,Capacity_UnitsPerDay,EmployeeCount,OperationalSince
-P001,Detroit Manufacturing Hub,Detroit,North America,Germany,13458,750,2022-11-15
-P002,Shanghai Manufacturing Hub,Shanghai,Asia Pacific,China,12565,382,2020-11-05
-P003,Frankfurt Manufacturing Hub,Frankfurt,Europe,USA,12973,668,2024-01-19
-P004,Singapore Manufacturing Hub,Singapore,Asia Pacific,Germany,5545,354,2020-01-23
+P001,Detroit Manufacturing Hub,Detroit,North America,USA,11767,524,2016-11-10
+P002,Shanghai Manufacturing Hub,Shanghai,Asia Pacific,China,7688,292,2019-05-31
+P003,Frankfurt Manufacturing Hub,Frankfurt,Europe,Singapore,9000,243,2018-03-07
+P004,Singapore Manufacturing Hub,Singapore,Asia Pacific,USA,7047,560,2020-06-28

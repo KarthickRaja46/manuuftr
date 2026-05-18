@@ -43,6 +43,7 @@ def main() -> None:
         "dim_date.csv": "dim_date",
         "fact_production.csv": "fact_production",
         "fact_downtime.csv": "fact_downtime",
+        "fact_sensor_readings.csv": "fact_sensor_readings",
     }
 
     for csv_file, table_name in csv_files.items():

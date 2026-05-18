@@ -17,6 +17,7 @@ CSV_FILES = [
     "dim_date.csv",
     "fact_production.csv",
     "fact_downtime.csv",
+    "fact_sensor_readings.csv",
 ]
 
 

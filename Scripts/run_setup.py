@@ -16,6 +16,9 @@ def main() -> None:
     parser.add_argument("--container", dest="container_name", default="manufacturing-data", help="Azure Blob container name")
     parser.add_argument("--skip-generate", dest="skip_generate", action="store_true", help="Skip generating new data files")
     parser.add_argument("--skip-upload", dest="skip_upload", action="store_true", help="Skip uploading files to Azure")
+    parser.add_argument("--days", dest="days", type=int, default=None, help="Number of new days to append when generating incremental facts")
+    parser.add_argument("--reset", dest="reset", action="store_true", help="Regenerate the dataset from scratch")
+    parser.add_argument("--force-dims", dest="force_dims", action="store_true", help="Regenerate dimension tables even if they already exist")
     args = parser.parse_args()
 
     # Prefer environment variable for safe key handling
@@ -23,7 +26,7 @@ def main() -> None:
 
     if not args.skip_generate:
         print("\n=== STEP 1: Generate manufacturing data ===\n")
-        generate_main()
+        generate_main(days=args.days, reset=args.reset, force_dims=args.force_dims)
 
     # Default behavior: upload (unless user explicitly opts out)
     if args.skip_upload:

@@ -1,21 +1,21 @@
 ProductID,ProductName,ProductCategory,SKU,UnitPrice,CostPerUnit,StandardCycletime_Seconds,Weight_kg,Status
-PRD0001,Amount-Community-1,Hydraulics,SKU-URIJ-2093,150,391,392,7.06,Active
-PRD0002,Election-Over-2,Assemblies,SKU-yiwQ-5195,554,227,405,34.44,Discontinued
-PRD0003,Carry-World-3,Hydraulics,SKU-hCar-4275,284,134,323,14.13,Discontinued
-PRD0004,Speak-Shake-4,Electronics,SKU-EkNd-6896,1438,793,490,43.27,Discontinued
-PRD0005,Impact-Move-5,Electronics,SKU-WMST-8654,1450,448,341,5.0,Active
-PRD0006,Issue-By-6,Assemblies,SKU-CbUc-9986,1331,78,96,42.54,Active
-PRD0007,Together-Standard-7,Hydraulics,SKU-xblH-9194,228,948,480,42.69,Discontinued
-PRD0008,Kind-Political-8,Electronics,SKU-bqgF-6393,1994,481,52,41.03,Active
-PRD0009,Kid-Church-9,Hydraulics,SKU-NUGQ-3782,1629,839,487,43.26,Active
-PRD0010,Heart-Resource-10,Hydraulics,SKU-Avgu-0387,984,684,510,33.61,Active
-PRD0011,State-Loss-11,Assemblies,SKU-vKGp-4845,1985,329,329,7.54,Discontinued
-PRD0012,Hundred-Meet-12,Assemblies,SKU-MPfW-9838,729,798,416,39.5,Active
-PRD0013,Open-Sure-13,Mechanical Parts,SKU-pvxa-6492,1900,373,438,38.58,Active
-PRD0014,Build-Political-14,Mechanical Parts,SKU-XAwB-0021,1282,725,389,4.71,Active
-PRD0015,Indeed-Course-15,Electrical Components,SKU-glPp-5216,1435,884,532,26.56,Active
-PRD0016,Provide-Particular-16,Electronics,SKU-fUTQ-3918,1831,462,546,11.04,Active
-PRD0017,Well-Relate-17,Assemblies,SKU-jCJY-6041,1742,987,310,14.99,Active
-PRD0018,Him-Their-18,Electronics,SKU-Zoxj-0508,1591,573,491,8.31,Active
-PRD0019,Yes-Nearly-19,Electrical Components,SKU-iMQJ-5341,727,109,279,10.47,Active
-PRD0020,Local-Find-20,Electronics,SKU-aOPs-6372,1096,271,441,15.13,Active
+PRD0001,Simply-Both-1,Electronics,SKU-RtOq-5880,1156,837,277,28.07,Discontinued
+PRD0002,Picture-Central-2,Assemblies,SKU-XfGy-7033,299,751,225,27.51,Active
+PRD0003,Last-Least-3,Mechanical Parts,SKU-goda-7335,157,672,139,26.93,Active
+PRD0004,Wide-Every-4,Mechanical Parts,SKU-Wkdg-8570,931,193,495,5.62,Discontinued
+PRD0005,Nice-Despite-5,Electrical Components,SKU-SXHi-8547,1335,357,191,15.86,Active
+PRD0006,Opportunity-Administration-6,Mechanical Parts,SKU-YhQr-6319,1990,746,437,5.89,Active
+PRD0007,Other-Research-7,Assemblies,SKU-yobV-4109,1778,887,210,4.58,Discontinued
+PRD0008,Give-Already-8,Assemblies,SKU-sPVc-2774,251,154,457,20.85,Active
+PRD0009,Several-Police-9,Electrical Components,SKU-iwxJ-6319,962,503,431,41.51,Active
+PRD0010,Guy-International-10,Electronics,SKU-eJZH-7435,1723,286,169,33.13,Discontinued
+PRD0011,Heavy-Lot-11,Mechanical Parts,SKU-adXs-4883,1422,979,594,7.87,Active
+PRD0012,Expect-Population-12,Electronics,SKU-ODoH-1063,1896,41,333,4.91,Active
+PRD0013,City-Site-13,Electrical Components,SKU-fXlg-4221,1269,276,378,41.08,Discontinued
+PRD0014,Bring-Political-14,Hydraulics,SKU-KQiY-5913,931,174,549,19.29,Active
+PRD0015,Owner-Board-15,Electrical Components,SKU-kKkX-3540,1567,226,565,1.46,Active
+PRD0016,Once-Do-16,Mechanical Parts,SKU-SnRL-4284,687,553,203,29.49,Active
+PRD0017,Idea-Anything-17,Electronics,SKU-nstq-8682,1107,875,414,6.52,Active
+PRD0018,Lose-Apply-18,Electrical Components,SKU-pMnI-4618,1589,360,75,48.14,Active
+PRD0019,Result-Coach-19,Hydraulics,SKU-xBXs-7131,1193,375,178,32.67,Discontinued
+PRD0020,Phone-Able-20,Electronics,SKU-EavD-1449,810,994,373,42.5,Discontinued

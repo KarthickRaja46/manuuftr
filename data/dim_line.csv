@@ -1,21 +1,21 @@
 LineID,LineName,PlantID,LineManager,TargetOEE_Percent,StandardCycletime_Seconds,Status
-P001-L1,Welding Station 1,P001,Nichole Johnson,77,238,Active
-P001-L2,Welding Station 2,P001,Kevin Vaughan,82,87,Active
-P001-L3,Finishing Line 3,P001,David Dodson,88,155,Active
-P001-L4,Finishing Line 4,P001,Molly Petty,91,136,Active
-P001-L5,Finishing Line 5,P001,Steven Mack,95,286,Active
-P002-L1,Finishing Line 1,P002,Stephanie Thomas,92,288,Active
-P002-L2,Quality Check 2,P002,Dr. Linda Lee,88,296,Active
-P002-L3,Finishing Line 3,P002,Brandon Barnes,89,235,Active
-P002-L4,Finishing Line 4,P002,Thomas Sparks,83,87,Active
-P002-L5,Finishing Line 5,P002,Joseph Hood,79,157,Maintenance
-P003-L1,Finishing Line 1,P003,Rebecca Reyes,84,288,Active
-P003-L2,Finishing Line 2,P003,Stephanie Klein,90,254,Active
-P003-L3,Packaging Line 3,P003,Dr. Jacqueline Tucker,92,58,Active
-P003-L4,Quality Check 4,P003,Samantha Walton,88,31,Active
-P003-L5,Packaging Line 5,P003,David Holland,93,180,Active
-P004-L1,Finishing Line 1,P004,Albert Farmer,77,168,Maintenance
-P004-L2,Welding Station 2,P004,Christopher Nelson,80,119,Maintenance
-P004-L3,Assembly Line 3,P004,Ms. Diana Alvarez,90,271,Active
-P004-L4,Welding Station 4,P004,Samantha Greer,80,160,Active
-P004-L5,Welding Station 5,P004,Meghan Haynes,95,61,Active
+P001-L1,Welding Station 1,P001,Thomas Richard,90,84,Active
+P001-L2,Finishing Line 2,P001,Andrew Trujillo,87,88,Active
+P001-L3,Packaging Line 3,P001,Melissa Peterson,86,117,Active
+P001-L4,Finishing Line 4,P001,Elizabeth Williams,85,90,Active
+P001-L5,Quality Check 5,P001,Charles Cortez,87,122,Maintenance
+P002-L1,Packaging Line 1,P002,Daniel Merritt,83,155,Active
+P002-L2,Finishing Line 2,P002,David Dennis,85,209,Active
+P002-L3,Assembly Line 3,P002,Russell Wagner,83,240,Active
+P002-L4,Quality Check 4,P002,Anthony Mooney,90,61,Active
+P002-L5,Welding Station 5,P002,Julia Torres,92,299,Active
+P003-L1,Finishing Line 1,P003,Tracy Gonzales,76,168,Active
+P003-L2,Welding Station 2,P003,Edward Mckinney,76,105,Active
+P003-L3,Assembly Line 3,P003,Diana Hill,80,61,Active
+P003-L4,Packaging Line 4,P003,Jennifer Pittman,75,124,Active
+P003-L5,Finishing Line 5,P003,Heather Moreno,82,123,Active
+P004-L1,Assembly Line 1,P004,Michael Peterson,94,287,Maintenance
+P004-L2,Finishing Line 2,P004,Angela Scott,86,272,Active
+P004-L3,Packaging Line 3,P004,Nancy Tran,75,76,Active
+P004-L4,Packaging Line 4,P004,Paul Leonard,93,233,Active
+P004-L5,Packaging Line 5,P004,Jerry Bender,79,240,Active
