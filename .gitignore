@@ -10,6 +10,8 @@ venv/
 
 # Data files
 data/
+!data/
+!data/.gitkeep
 *.csv
 *.xlsx
 *.pbix
